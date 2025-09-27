@@ -1,0 +1,1001 @@
+Claim_ID,Policy_Holder,Claim_Date,Claim_Type,Claim_Amount,Location,Rainfall_mm,Weather_Condition,Settlement_Status,Processing_Days
+C0001,Lavanya Babu,2024-10-02,Vehicle,70268,Pune,65,Light Rain,Pending,9
+C0002,Kavya Din,2025-05-16,Agriculture,179400,Pune,63,Heavy Rain,Settled,4
+C0003,Shayak Sekhon,2024-12-10,Property,254990,Ahmedabad,282,Moderate Rain,Pending,8
+C0004,Samar Din,2025-02-02,Vehicle,36697,Hyderabad,267,Flood,Pending,25
+C0005,Prerak Virk,2025-09-16,Property,495518,Bangalore,286,Heavy Rain,Pending,23
+C0006,Parinaaz Chada,2025-08-04,Health,45090,Hyderabad,202,Moderate Rain,Settled,29
+C0007,Ryan Datta,2024-11-02,Vehicle,69141,Pune,214,Flood,Pending,7
+C0008,Badal Bava,2025-03-12,Property,358146,Lucknow,246,Light Rain,Pending,7
+C0009,Rohan Suri,2025-07-30,Property,398085,Ahmedabad,182,Flood,Pending,23
+C0010,Samar Deol,2025-02-07,Property,445794,Hyderabad,242,Light Rain,Pending,8
+C0011,Farhan Saraf,2025-03-22,Vehicle,97300,Mumbai,57,Light Rain,Pending,13
+C0012,Trisha Sura,2025-06-20,Health,89126,Delhi,170,Light Rain,Pending,14
+C0013,Anvi Rastogi,2025-03-08,Health,127333,Pune,208,Flood,Settled,29
+C0014,Aniruddh Garde,2024-12-22,Agriculture,265729,Delhi,210,Light Rain,Settled,9
+C0015,Ivan Gopal,2025-07-06,Agriculture,89520,Pune,246,Flood,Settled,20
+C0016,Siya Kala,2025-07-06,Property,409010,Kolkata,161,Heavy Rain,Settled,15
+C0017,Rania Dave,2025-07-23,Health,55793,Pune,247,Light Rain,Settled,14
+C0018,Drishya Som,2025-06-01,Vehicle,115098,Kolkata,180,Flood,Settled,26
+C0019,Himmat Shah,2025-08-03,Health,32589,Pune,278,Moderate Rain,Rejected,20
+C0020,Divij Sharaf,2025-03-22,Health,155600,Bangalore,260,Heavy Rain,Settled,28
+C0021,Mahika Varkey,2025-02-11,Property,182478,Lucknow,185,Flood,Settled,23
+C0022,Veer Bhatnagar,2024-12-08,Vehicle,94137,Hyderabad,99,Flood,Settled,16
+C0023,Rasha Sengupta,2024-10-20,Vehicle,112054,Ahmedabad,141,Flood,Settled,6
+C0024,Arhaan Rao,2025-06-24,Agriculture,186569,Kolkata,270,Moderate Rain,Pending,24
+C0025,Shaan Sule,2024-12-25,Agriculture,62023,Ahmedabad,56,Light Rain,Pending,14
+C0026,Ivan Dhaliwal,2025-06-19,Property,433075,Pune,138,Heavy Rain,Settled,23
+C0027,Tanya Bawa,2025-06-18,Health,109793,Delhi,250,Light Rain,Settled,26
+C0028,Badal Ghose,2024-12-26,Health,193299,Pune,82,Flood,Rejected,6
+C0029,Stuvan Ramaswamy,2025-05-16,Agriculture,217375,Delhi,106,Light Rain,Settled,21
+C0030,Keya Deshmukh,2025-08-22,Vehicle,62579,Ahmedabad,183,Light Rain,Settled,6
+C0031,Kabir Ramachandran,2025-03-20,Vehicle,64571,Pune,269,Moderate Rain,Rejected,5
+C0032,Sahil Kumer,2025-06-26,Agriculture,83456,Lucknow,295,Moderate Rain,Pending,17
+C0033,Yakshit Sur,2024-11-26,Health,107266,Ahmedabad,137,Heavy Rain,Settled,28
+C0034,Rania Rajan,2024-12-25,Agriculture,99759,Ahmedabad,138,Light Rain,Pending,18
+C0035,Kiaan Cheema,2024-12-16,Agriculture,242999,Mumbai,100,Light Rain,Rejected,7
+C0036,Ira Sidhu,2025-05-15,Vehicle,50350,Delhi,259,Heavy Rain,Settled,25
+C0037,Sana Manda,2024-10-27,Property,496462,Lucknow,166,Light Rain,Settled,29
+C0038,Kashvi Gade,2025-05-15,Vehicle,138937,Chennai,54,Flood,Pending,16
+C0039,Aaryahi Arya,2025-03-01,Agriculture,105607,Ahmedabad,287,Heavy Rain,Pending,11
+C0040,Dhanush Bala,2025-08-22,Health,133350,Bangalore,79,Heavy Rain,Settled,26
+C0041,Aaina Chawla,2025-03-01,Vehicle,127689,Delhi,276,Light Rain,Settled,29
+C0042,Indrans Basu,2025-09-15,Property,128784,Delhi,297,Flood,Settled,5
+C0043,Prerak Gaba,2025-07-18,Health,96611,Mumbai,177,Heavy Rain,Settled,10
+C0044,Yuvaan Barad,2025-02-03,Vehicle,103937,Delhi,251,Heavy Rain,Settled,9
+C0045,Piya Koshy,2025-03-13,Health,42679,Bangalore,125,Heavy Rain,Settled,15
+C0046,Indrajit Sarkar,2025-07-17,Agriculture,77649,Bangalore,92,Moderate Rain,Rejected,4
+C0047,Vihaan Ben,2025-02-14,Agriculture,223929,Mumbai,71,Flood,Rejected,9
+C0048,Faiyaz Dua,2025-07-28,Health,20700,Lucknow,212,Moderate Rain,Rejected,19
+C0049,Nayantara Amble,2025-07-10,Property,473392,Bangalore,127,Light Rain,Rejected,18
+C0050,Rohan Majumdar,2025-04-13,Agriculture,187965,Kolkata,89,Heavy Rain,Rejected,28
+C0051,Aniruddh Setty,2025-02-11,Property,279597,Pune,227,Heavy Rain,Settled,27
+C0052,Ehsaan Lad,2025-08-31,Vehicle,47163,Mumbai,245,Light Rain,Pending,11
+C0053,Anahita Toor,2024-11-13,Health,175394,Chennai,167,Heavy Rain,Settled,10
+C0054,Kimaya Boase,2025-04-19,Health,114977,Chennai,282,Moderate Rain,Pending,12
+C0055,Anya Chander,2025-02-23,Vehicle,38054,Bangalore,109,Moderate Rain,Pending,29
+C0056,Renee Toor,2025-04-10,Property,147538,Mumbai,119,Heavy Rain,Settled,29
+C0057,Uthkarsh Krishnan,2024-12-14,Vehicle,134050,Hyderabad,244,Light Rain,Settled,18
+C0058,Advik Yadav,2025-02-01,Vehicle,63007,Pune,80,Light Rain,Rejected,11
+C0059,Ishita Sabharwal,2025-08-20,Property,434333,Hyderabad,213,Light Rain,Settled,28
+C0060,Ishaan Boase,2025-03-30,Agriculture,185555,Hyderabad,284,Heavy Rain,Settled,8
+C0061,Tara Chaudhuri,2025-07-07,Health,108267,Mumbai,258,Flood,Settled,7
+C0062,Rohan Sani,2025-08-09,Health,60215,Jaipur,55,Heavy Rain,Settled,15
+C0063,Damini Bath,2025-03-29,Agriculture,160639,Lucknow,277,Heavy Rain,Pending,17
+C0064,Nehmat Dhaliwal,2025-01-02,Vehicle,110870,Lucknow,214,Flood,Settled,23
+C0065,Rati Chaudhry,2025-05-08,Agriculture,162468,Delhi,247,Light Rain,Pending,19
+C0066,Romil Kohli,2025-03-11,Health,74632,Kolkata,109,Moderate Rain,Settled,6
+C0067,Abram Jha,2024-12-01,Health,135244,Delhi,219,Moderate Rain,Pending,9
+C0068,Aarna Cherian,2025-06-20,Vehicle,125144,Hyderabad,99,Moderate Rain,Settled,11
+C0069,Madhup Raval,2025-09-18,Health,43305,Hyderabad,282,Light Rain,Settled,22
+C0070,Sumer Sant,2025-05-03,Property,195834,Jaipur,63,Light Rain,Settled,25
+C0071,Eva Hans,2025-04-11,Health,58567,Bangalore,108,Heavy Rain,Rejected,4
+C0072,Lavanya Mandal,2025-01-23,Vehicle,62967,Delhi,211,Heavy Rain,Settled,20
+C0073,Advik Lala,2025-05-19,Vehicle,95474,Bangalore,101,Light Rain,Settled,12
+C0074,Emir Trivedi,2025-05-22,Vehicle,79666,Mumbai,126,Moderate Rain,Pending,24
+C0075,Ryan Krishna,2025-04-15,Vehicle,78841,Delhi,277,Light Rain,Pending,3
+C0076,Advik Sinha,2024-12-31,Property,183005,Bangalore,287,Flood,Settled,6
+C0077,Lavanya Karan,2025-06-30,Vehicle,143233,Ahmedabad,81,Flood,Rejected,10
+C0078,Damini Tak,2024-10-24,Property,217714,Delhi,105,Heavy Rain,Settled,30
+C0079,Riya Zachariah,2024-11-02,Agriculture,63385,Delhi,168,Moderate Rain,Settled,30
+C0080,Hansh Lanka,2025-08-07,Vehicle,40899,Delhi,138,Flood,Settled,25
+C0081,Armaan Saran,2025-04-18,Property,181060,Bangalore,136,Heavy Rain,Rejected,3
+C0082,Indrajit Solanki,2024-12-22,Health,147155,Mumbai,91,Moderate Rain,Settled,30
+C0083,Uthkarsh Chaudry,2025-07-24,Property,129786,Hyderabad,220,Moderate Rain,Settled,8
+C0084,Jayesh Comar,2025-05-18,Health,110972,Pune,190,Light Rain,Rejected,11
+C0085,Jayesh Saran,2025-04-15,Property,394982,Lucknow,65,Heavy Rain,Settled,17
+C0086,Indrans Samra,2024-10-20,Agriculture,220362,Kolkata,171,Flood,Settled,23
+C0087,Renee Jha,2025-03-04,Property,464695,Delhi,187,Moderate Rain,Pending,24
+C0088,Seher Desai,2025-08-22,Vehicle,106307,Mumbai,193,Moderate Rain,Pending,28
+C0089,Chirag Soni,2025-05-27,Property,393948,Bangalore,204,Flood,Settled,24
+C0090,Hiran Dugal,2025-05-08,Property,478970,Jaipur,110,Moderate Rain,Settled,8
+C0091,Amani Sundaram,2024-12-09,Property,221350,Delhi,205,Light Rain,Settled,12
+C0092,Akarsh Sahni,2025-05-22,Health,181368,Ahmedabad,135,Moderate Rain,Settled,25
+C0093,Veer Ganesh,2025-04-09,Agriculture,225572,Lucknow,78,Flood,Rejected,28
+C0094,Ayesha Cherian,2025-06-13,Health,144295,Pune,278,Moderate Rain,Settled,28
+C0095,Tanya Karan,2025-04-13,Health,136046,Pune,190,Moderate Rain,Pending,9
+C0096,Miraan Desai,2025-01-21,Vehicle,32305,Jaipur,190,Light Rain,Settled,17
+C0097,Eshani Bhatti,2025-07-14,Vehicle,99592,Pune,239,Light Rain,Pending,19
+C0098,Vivaan Bahri,2024-10-19,Property,239259,Mumbai,131,Flood,Pending,15
+C0099,Suhana Borah,2025-01-14,Vehicle,92948,Pune,182,Moderate Rain,Pending,15
+C0100,Vidur Rajan,2025-04-27,Vehicle,112260,Bangalore,233,Moderate Rain,Settled,23
+C0101,Lagan Gaba,2025-01-22,Property,108239,Delhi,65,Light Rain,Settled,5
+C0102,Uthkarsh Sampath,2025-06-09,Property,410243,Ahmedabad,258,Heavy Rain,Settled,22
+C0103,Lagan Bath,2025-01-13,Property,492681,Bangalore,143,Flood,Settled,6
+C0104,Kashvi Amble,2025-05-28,Health,151556,Jaipur,160,Light Rain,Pending,15
+C0105,Jiya Bir,2025-06-15,Vehicle,69562,Bangalore,190,Light Rain,Pending,18
+C0106,Kanav Shetty,2024-11-15,Health,91687,Hyderabad,276,Flood,Settled,27
+C0107,Ira Borra,2024-12-08,Agriculture,70935,Lucknow,275,Flood,Settled,11
+C0108,Ishaan Aggarwal,2025-06-30,Property,284705,Delhi,195,Moderate Rain,Rejected,15
+C0109,Anika Sheth,2025-08-08,Agriculture,99656,Jaipur,281,Heavy Rain,Pending,25
+C0110,Alia Hayer,2025-04-15,Agriculture,58309,Bangalore,176,Moderate Rain,Rejected,6
+C0111,Samarth Baral,2025-03-06,Vehicle,144666,Hyderabad,264,Flood,Settled,9
+C0112,Priyansh Kohli,2025-08-06,Agriculture,181091,Hyderabad,155,Moderate Rain,Settled,5
+C0113,Taran Batta,2024-10-31,Vehicle,43766,Jaipur,224,Light Rain,Rejected,28
+C0114,Sahil Halder,2025-07-24,Vehicle,133689,Chennai,112,Flood,Settled,29
+C0115,Mehul Sem,2025-07-22,Property,365829,Mumbai,88,Heavy Rain,Rejected,10
+C0116,Jayant Acharya,2025-07-22,Vehicle,126145,Chennai,284,Light Rain,Settled,12
+C0117,Prerak Atwal,2025-08-27,Agriculture,240469,Delhi,123,Light Rain,Rejected,27
+C0118,Samarth Shukla,2025-03-30,Health,121944,Bangalore,113,Moderate Rain,Settled,28
+C0119,Seher Korpal,2025-07-03,Property,210335,Jaipur,175,Light Rain,Settled,4
+C0120,Saanvi Vora,2025-06-05,Health,134700,Jaipur,231,Moderate Rain,Settled,7
+C0121,Priyansh Sharaf,2025-04-16,Property,281120,Lucknow,286,Light Rain,Rejected,13
+C0122,Tushar Khurana,2025-02-04,Property,282145,Bangalore,246,Flood,Settled,23
+C0123,Elakshi Mannan,2025-07-11,Property,474482,Delhi,125,Flood,Rejected,16
+C0124,Akarsh Yadav,2024-12-14,Property,436194,Delhi,259,Heavy Rain,Settled,13
+C0125,Purab Bhatnagar,2025-09-24,Property,358203,Pune,153,Flood,Pending,20
+C0126,Trisha Ravel,2024-11-24,Property,324758,Delhi,169,Flood,Settled,22
+C0127,Sara Halder,2024-11-18,Agriculture,52056,Ahmedabad,147,Flood,Settled,14
+C0128,Rati Sarkar,2025-09-01,Vehicle,101248,Pune,97,Flood,Settled,11
+C0129,Chirag Mall,2025-06-26,Agriculture,232424,Ahmedabad,158,Heavy Rain,Settled,30
+C0130,Indrajit Dyal,2024-11-20,Vehicle,81666,Ahmedabad,197,Flood,Settled,3
+C0131,Krish Baral,2025-07-25,Agriculture,88239,Lucknow,232,Light Rain,Settled,27
+C0132,Divyansh Handa,2025-04-29,Agriculture,272994,Bangalore,100,Light Rain,Settled,29
+C0133,Himmat Ratti,2025-01-10,Vehicle,148619,Chennai,220,Light Rain,Pending,13
+C0134,Mehul Lad,2025-04-26,Vehicle,98682,Lucknow,185,Heavy Rain,Pending,24
+C0135,Kartik Sen,2025-09-26,Vehicle,126335,Delhi,142,Moderate Rain,Settled,18
+C0136,Nayantara Ramesh,2025-03-27,Agriculture,183833,Jaipur,207,Heavy Rain,Settled,25
+C0137,Kiara Basu,2025-08-08,Property,368762,Jaipur,263,Light Rain,Settled,4
+C0138,Jhanvi Bhatti,2025-02-02,Health,26659,Delhi,226,Heavy Rain,Settled,18
+C0139,Badal Lad,2025-04-02,Property,271900,Jaipur,111,Heavy Rain,Rejected,4
+C0140,Amani Chokshi,2024-10-16,Agriculture,138052,Chennai,264,Heavy Rain,Pending,9
+C0141,Amira Chadha,2025-01-02,Health,49821,Hyderabad,240,Flood,Pending,18
+C0142,Adah Dixit,2025-02-12,Property,320559,Ahmedabad,145,Moderate Rain,Pending,12
+C0143,Rohan Brahmbhatt,2025-09-15,Health,42884,Bangalore,179,Flood,Rejected,16
+C0144,Himmat Chhabra,2025-01-07,Vehicle,40768,Ahmedabad,256,Moderate Rain,Pending,26
+C0145,Krish Chad,2025-01-06,Property,157715,Ahmedabad,207,Heavy Rain,Settled,19
+C0146,Advika Bhat,2025-03-31,Vehicle,137451,Jaipur,166,Flood,Pending,8
+C0147,Uthkarsh Kaul,2025-01-28,Property,276035,Ahmedabad,300,Light Rain,Settled,29
+C0148,Sana Virk,2025-03-26,Property,243097,Hyderabad,186,Flood,Settled,25
+C0149,Ehsaan Thaker,2025-07-04,Vehicle,41453,Mumbai,87,Moderate Rain,Settled,22
+C0150,Advik Amble,2025-02-11,Property,467181,Delhi,125,Flood,Pending,12
+C0151,Kanav Bora,2025-04-15,Vehicle,54650,Pune,95,Light Rain,Pending,10
+C0152,Riaan Kunda,2025-02-15,Vehicle,94300,Jaipur,116,Heavy Rain,Pending,5
+C0153,Nakul Varkey,2025-08-07,Agriculture,290054,Jaipur,212,Heavy Rain,Settled,14
+C0154,Drishya Keer,2025-09-26,Agriculture,258186,Bangalore,88,Light Rain,Settled,26
+C0155,Ela Kala,2025-03-20,Health,36799,Jaipur,59,Heavy Rain,Pending,19
+C0156,Rania Hora,2025-08-02,Property,482373,Jaipur,66,Flood,Settled,7
+C0157,Devansh Lalla,2025-03-13,Property,250470,Pune,212,Light Rain,Settled,26
+C0158,Chirag Sibal,2024-10-03,Vehicle,132677,Mumbai,139,Light Rain,Pending,10
+C0159,Dhanush Bahri,2025-09-23,Health,163423,Pune,62,Heavy Rain,Pending,26
+C0160,Oorja Reddy,2025-02-23,Health,42113,Delhi,167,Light Rain,Pending,11
+C0161,Vidur Datta,2024-09-26,Vehicle,100801,Bangalore,60,Light Rain,Settled,11
+C0162,Shanaya Bansal,2024-11-17,Vehicle,75745,Ahmedabad,119,Flood,Pending,8
+C0163,Kaira Ray,2025-02-17,Vehicle,46697,Lucknow,88,Moderate Rain,Pending,12
+C0164,Lagan Issac,2025-08-04,Vehicle,103964,Lucknow,177,Moderate Rain,Settled,21
+C0165,Adira D’Alia,2025-06-02,Health,127544,Pune,300,Light Rain,Settled,30
+C0166,Aarush Roy,2024-12-09,Health,61255,Mumbai,66,Heavy Rain,Settled,26
+C0167,Diya Sahota,2024-12-29,Agriculture,100201,Jaipur,112,Flood,Rejected,4
+C0168,Rhea Trivedi,2024-11-23,Vehicle,128922,Ahmedabad,264,Flood,Settled,5
+C0169,Eva Dewan,2025-01-21,Agriculture,226222,Bangalore,276,Moderate Rain,Pending,30
+C0170,Kashvi Kaul,2025-02-03,Property,165322,Jaipur,283,Heavy Rain,Pending,3
+C0171,Vihaan Rana,2025-04-03,Vehicle,113247,Bangalore,72,Light Rain,Settled,28
+C0172,Aaryahi Raval,2024-11-14,Vehicle,115853,Pune,249,Moderate Rain,Pending,26
+C0173,Hrishita Bhat,2024-10-09,Health,190333,Bangalore,106,Light Rain,Pending,16
+C0174,Hansh Kurian,2025-05-03,Vehicle,94744,Bangalore,127,Heavy Rain,Pending,16
+C0175,Zoya Basak,2025-06-19,Health,132083,Chennai,203,Moderate Rain,Settled,11
+C0176,Zeeshan Varughese,2025-09-02,Property,203655,Bangalore,84,Flood,Settled,29
+C0177,Hansh Soni,2025-01-24,Property,450004,Ahmedabad,292,Heavy Rain,Settled,15
+C0178,Zeeshan Walia,2025-05-17,Vehicle,97838,Pune,91,Heavy Rain,Rejected,26
+C0179,Advika Devi,2025-07-01,Property,201374,Mumbai,157,Heavy Rain,Settled,7
+C0180,Ivan Dutta,2025-04-20,Vehicle,91665,Chennai,95,Heavy Rain,Settled,30
+C0181,Indrans Lalla,2025-02-18,Vehicle,49116,Delhi,131,Heavy Rain,Rejected,18
+C0182,Vivaan Datta,2025-07-03,Health,22191,Kolkata,123,Light Rain,Settled,15
+C0183,Kartik Sarna,2025-09-25,Agriculture,52782,Chennai,194,Flood,Pending,28
+C0184,Lavanya Chawla,2024-12-29,Vehicle,68921,Jaipur,147,Light Rain,Pending,22
+C0185,Hazel Barman,2024-12-27,Vehicle,131301,Chennai,274,Heavy Rain,Settled,4
+C0186,Rati Dugar,2024-10-07,Property,475421,Ahmedabad,157,Light Rain,Settled,29
+C0187,Nirvaan Chad,2024-10-02,Property,150558,Chennai,164,Light Rain,Settled,25
+C0188,Vedika Dubey,2025-04-09,Vehicle,92775,Lucknow,260,Heavy Rain,Pending,27
+C0189,Pihu Badami,2025-01-28,Property,444823,Hyderabad,284,Heavy Rain,Settled,16
+C0190,Aaryahi Thakkar,2025-02-23,Property,161790,Mumbai,140,Moderate Rain,Pending,13
+C0191,Jayesh Chandran,2025-04-02,Property,218368,Lucknow,280,Moderate Rain,Pending,7
+C0192,Lakshit Dar,2025-09-22,Agriculture,268500,Hyderabad,170,Flood,Settled,12
+C0193,Onkar Taneja,2025-03-30,Property,434887,Delhi,137,Moderate Rain,Settled,11
+C0194,Priyansh Garg,2025-01-08,Health,184922,Jaipur,140,Light Rain,Settled,6
+C0195,Ishita Goel,2024-11-12,Vehicle,30613,Pune,77,Moderate Rain,Settled,13
+C0196,Uthkarsh Goel,2025-08-09,Vehicle,74903,Pune,106,Flood,Pending,10
+C0197,Yashvi Sibal,2025-07-18,Health,86520,Lucknow,201,Moderate Rain,Settled,16
+C0198,Emir Solanki,2025-06-23,Health,199158,Ahmedabad,115,Moderate Rain,Settled,18
+C0199,Tejas Das,2024-12-28,Vehicle,97627,Lucknow,94,Moderate Rain,Settled,16
+C0200,Ritvik Sha,2025-05-16,Agriculture,223351,Delhi,236,Heavy Rain,Settled,25
+C0201,Fateh Ramaswamy,2024-10-21,Health,136689,Delhi,211,Flood,Settled,27
+C0202,Hunar Arora,2025-02-15,Health,113186,Jaipur,87,Light Rain,Pending,3
+C0203,Shayak Biswas,2025-06-30,Agriculture,56059,Ahmedabad,153,Light Rain,Pending,30
+C0204,Anahi Ghosh,2024-10-11,Agriculture,83528,Lucknow,92,Heavy Rain,Settled,13
+C0205,Madhup Acharya,2024-11-29,Health,177417,Kolkata,242,Light Rain,Settled,28
+C0206,Darshit Khatri,2025-01-22,Health,190429,Lucknow,295,Light Rain,Settled,4
+C0207,Jivin Barad,2024-10-10,Property,297574,Kolkata,153,Moderate Rain,Settled,27
+C0208,Taimur Thaman,2025-09-15,Vehicle,91683,Pune,230,Moderate Rain,Settled,22
+C0209,Sara Bala,2024-10-19,Property,186219,Jaipur,182,Light Rain,Settled,26
+C0210,Sahil Tank,2025-05-30,Vehicle,54145,Delhi,152,Light Rain,Settled,30
+C0211,Kiaan Bath,2025-04-12,Vehicle,90560,Chennai,286,Heavy Rain,Settled,8
+C0212,Yuvaan Agate,2024-10-01,Vehicle,116650,Kolkata,230,Flood,Settled,30
+C0213,Ishaan Rao,2025-06-16,Agriculture,61794,Kolkata,163,Heavy Rain,Settled,30
+C0214,Tiya Sarraf,2025-04-10,Vehicle,103643,Delhi,195,Flood,Pending,8
+C0215,Elakshi Sachar,2025-01-31,Agriculture,175271,Jaipur,210,Light Rain,Pending,25
+C0216,Mamooty Hayre,2025-07-25,Agriculture,154045,Mumbai,131,Light Rain,Pending,14
+C0217,Vedika Kar,2025-04-26,Property,204653,Ahmedabad,300,Moderate Rain,Pending,16
+C0218,Vedika Vala,2025-09-26,Vehicle,68471,Ahmedabad,172,Moderate Rain,Pending,23
+C0219,Ishita Gala,2024-11-01,Health,187821,Delhi,85,Light Rain,Pending,28
+C0220,Tarini Brahmbhatt,2025-06-16,Property,195442,Lucknow,214,Flood,Pending,25
+C0221,Diya Rajan,2025-09-20,Agriculture,73681,Delhi,126,Flood,Settled,6
+C0222,Adah Goswami,2024-12-26,Property,329325,Pune,261,Moderate Rain,Settled,6
+C0223,Onkar Bhatt,2024-12-09,Health,162871,Bangalore,112,Flood,Pending,8
+C0224,Prerak Chaudhuri,2025-09-25,Health,21632,Ahmedabad,144,Heavy Rain,Settled,22
+C0225,Kartik Chowdhury,2025-01-05,Agriculture,268224,Pune,281,Light Rain,Pending,24
+C0226,Dishani Tripathi,2025-05-25,Vehicle,130856,Mumbai,281,Flood,Rejected,17
+C0227,Tara Dyal,2025-04-04,Health,71301,Hyderabad,113,Light Rain,Pending,11
+C0228,Raghav Goyal,2024-12-06,Agriculture,251670,Chennai,84,Heavy Rain,Settled,8
+C0229,Hunar Sachar,2025-02-15,Vehicle,34139,Chennai,94,Heavy Rain,Settled,7
+C0230,Stuvan Kaur,2024-12-11,Agriculture,67362,Jaipur,225,Heavy Rain,Settled,5
+C0231,Yuvaan Manne,2024-12-11,Vehicle,111741,Kolkata,296,Moderate Rain,Rejected,12
+C0232,Ira Uppal,2024-11-19,Vehicle,139014,Jaipur,291,Moderate Rain,Settled,17
+C0233,Shlok Suresh,2025-09-08,Vehicle,69158,Delhi,129,Heavy Rain,Pending,12
+C0234,Shayak Malhotra,2025-07-16,Agriculture,86272,Mumbai,205,Flood,Settled,5
+C0235,Kismat Mangat,2025-05-23,Property,221282,Hyderabad,191,Moderate Rain,Settled,11
+C0236,Seher Warrior,2025-02-16,Vehicle,126544,Delhi,64,Moderate Rain,Settled,14
+C0237,Hrishita Dash,2024-12-04,Health,184220,Bangalore,297,Light Rain,Settled,24
+C0238,Rasha Bhatti,2024-12-12,Health,71729,Jaipur,158,Moderate Rain,Pending,10
+C0239,Lavanya Kaul,2025-05-27,Health,181924,Delhi,207,Light Rain,Settled,27
+C0240,Anay Singhal,2025-06-24,Agriculture,86933,Delhi,105,Flood,Settled,14
+C0241,Dhanush Kari,2025-01-03,Agriculture,249392,Jaipur,285,Flood,Settled,5
+C0242,Samaira Doshi,2024-12-31,Agriculture,216217,Hyderabad,121,Heavy Rain,Pending,14
+C0243,Hunar Kari,2024-11-27,Property,157972,Ahmedabad,147,Moderate Rain,Settled,14
+C0244,Misha Cheema,2024-12-21,Property,433419,Kolkata,87,Flood,Settled,19
+C0245,Badal Dugar,2025-06-02,Property,102378,Bangalore,287,Heavy Rain,Settled,10
+C0246,Kartik Jha,2025-09-06,Property,109547,Lucknow,154,Moderate Rain,Settled,20
+C0247,Vivaan Rege,2025-09-07,Vehicle,61492,Chennai,233,Flood,Pending,3
+C0248,Vaibhav Vasa,2024-12-10,Property,371636,Ahmedabad,141,Flood,Rejected,18
+C0249,Alisha Dhillon,2025-03-21,Health,81290,Kolkata,230,Flood,Settled,26
+C0250,Mishti Vyas,2025-05-06,Vehicle,148222,Ahmedabad,181,Light Rain,Settled,9
+C0251,Divyansh Hayre,2024-10-07,Vehicle,145373,Kolkata,132,Moderate Rain,Pending,3
+C0252,Kismat Thakkar,2025-08-18,Property,411133,Chennai,190,Heavy Rain,Pending,24
+C0253,Tara Zacharia,2025-07-13,Property,473659,Bangalore,159,Moderate Rain,Pending,4
+C0254,Urvi Varkey,2025-08-21,Property,488426,Chennai,73,Moderate Rain,Rejected,27
+C0255,Piya Swamy,2025-03-12,Property,495465,Pune,98,Moderate Rain,Settled,25
+C0256,Vritika Rastogi,2025-05-27,Health,42607,Mumbai,257,Light Rain,Pending,29
+C0257,Anahita Kala,2025-06-12,Agriculture,195935,Ahmedabad,254,Moderate Rain,Settled,23
+C0258,Zoya Walia,2025-01-16,Vehicle,135641,Chennai,178,Light Rain,Settled,16
+C0259,Kiaan Trivedi,2025-01-06,Health,43920,Delhi,233,Flood,Settled,16
+C0260,Divit Saha,2024-10-06,Health,26674,Jaipur,188,Moderate Rain,Pending,21
+C0261,Lagan Mahal,2025-03-08,Property,443038,Pune,184,Flood,Settled,16
+C0262,Zara Mander,2025-04-08,Vehicle,137106,Kolkata,61,Heavy Rain,Pending,14
+C0263,Manjari Biswas,2025-01-14,Health,188502,Lucknow,239,Heavy Rain,Settled,12
+C0264,Myra Sane,2025-07-11,Health,156851,Chennai,58,Moderate Rain,Settled,4
+C0265,Sara Borde,2025-09-21,Property,226664,Kolkata,227,Flood,Settled,12
+C0266,Rasha Ben,2025-03-15,Agriculture,269011,Hyderabad,177,Light Rain,Settled,27
+C0267,Seher Gupta,2025-07-23,Property,119038,Bangalore,279,Light Rain,Pending,18
+C0268,Rati Chada,2024-09-29,Property,157956,Delhi,245,Flood,Settled,7
+C0269,Fateh Desai,2025-06-01,Property,217177,Ahmedabad,69,Flood,Pending,24
+C0270,Zara Kar,2025-01-19,Agriculture,74677,Lucknow,257,Light Rain,Settled,13
+C0271,Diya Brahmbhatt,2025-03-16,Vehicle,127270,Jaipur,287,Flood,Settled,23
+C0272,Arhaan Madan,2024-12-26,Vehicle,95935,Hyderabad,277,Light Rain,Pending,7
+C0273,Diya Bhagat,2024-12-29,Property,104186,Kolkata,167,Heavy Rain,Pending,13
+C0274,Ira Mall,2025-08-27,Health,190702,Kolkata,52,Heavy Rain,Pending,24
+C0275,Ryan Date,2025-02-13,Property,429117,Lucknow,263,Heavy Rain,Pending,19
+C0276,Azad Sodhi,2025-01-04,Vehicle,34899,Lucknow,234,Flood,Settled,30
+C0277,Hiran Setty,2025-05-12,Health,158483,Hyderabad,221,Flood,Settled,14
+C0278,Divyansh Bhasin,2025-03-23,Health,103745,Hyderabad,191,Light Rain,Settled,17
+C0279,Biju Raval,2024-10-12,Vehicle,62916,Hyderabad,177,Moderate Rain,Settled,14
+C0280,Advika Kuruvilla,2025-08-31,Agriculture,172387,Ahmedabad,251,Heavy Rain,Settled,21
+C0281,Mohanlal Ghose,2024-11-05,Health,56206,Mumbai,295,Flood,Settled,27
+C0282,Krish Sanghvi,2025-06-15,Agriculture,119134,Jaipur,82,Light Rain,Settled,17
+C0283,Eshani Kulkarni,2024-12-25,Vehicle,146308,Ahmedabad,285,Flood,Settled,7
+C0284,Rhea Kar,2025-07-22,Health,180805,Chennai,251,Flood,Settled,18
+C0285,Nehmat Srinivasan,2025-02-28,Vehicle,125503,Bangalore,137,Moderate Rain,Settled,30
+C0286,Mehul Rajagopal,2025-02-16,Property,484549,Pune,83,Heavy Rain,Settled,14
+C0287,Jayesh Chand,2025-08-29,Vehicle,43888,Jaipur,90,Heavy Rain,Pending,14
+C0288,Zara Kapur,2025-02-04,Health,127403,Jaipur,116,Light Rain,Settled,14
+C0289,Samar Gade,2024-12-24,Health,82426,Delhi,202,Heavy Rain,Pending,19
+C0290,Hansh Dar,2025-06-25,Health,115128,Chennai,219,Moderate Rain,Rejected,16
+C0291,Raghav Mandal,2024-11-02,Agriculture,189729,Ahmedabad,74,Heavy Rain,Rejected,28
+C0292,Tarini Barad,2025-08-10,Vehicle,103721,Delhi,276,Light Rain,Settled,28
+C0293,Pihu Bala,2025-07-26,Property,442543,Lucknow,133,Heavy Rain,Settled,19
+C0294,Lakshay Choudhury,2024-12-07,Vehicle,136053,Bangalore,277,Flood,Pending,30
+C0295,Myra Choudhury,2024-12-27,Vehicle,67448,Lucknow,288,Moderate Rain,Settled,19
+C0296,Yuvaan Mani,2025-03-16,Vehicle,64158,Lucknow,189,Flood,Settled,27
+C0297,Ritvik Kamdar,2025-09-20,Vehicle,43784,Delhi,221,Heavy Rain,Settled,15
+C0298,Seher Chawla,2025-09-10,Agriculture,88513,Chennai,51,Light Rain,Settled,30
+C0299,Eva Saxena,2025-02-20,Health,105637,Jaipur,242,Heavy Rain,Settled,6
+C0300,Kiara Zacharia,2025-05-27,Health,32987,Bangalore,70,Heavy Rain,Settled,7
+C0301,Aarush Devi,2024-11-09,Agriculture,180253,Kolkata,94,Moderate Rain,Settled,17
+C0302,Raunak Kulkarni,2025-09-19,Property,176866,Bangalore,262,Moderate Rain,Settled,27
+C0303,Riya Hayer,2024-10-12,Health,55222,Bangalore,162,Moderate Rain,Settled,11
+C0304,Misha Kota,2025-06-16,Agriculture,62754,Bangalore,300,Light Rain,Settled,23
+C0305,Mohanlal Kurian,2025-05-15,Property,441723,Pune,225,Light Rain,Pending,14
+C0306,Miraya Goyal,2025-06-02,Health,110103,Jaipur,209,Moderate Rain,Settled,18
+C0307,Tushar Soman,2024-11-11,Property,121269,Hyderabad,166,Light Rain,Rejected,28
+C0308,Ahana  Bandi,2024-12-15,Property,138757,Delhi,191,Moderate Rain,Pending,15
+C0309,Kashvi Shanker,2025-06-09,Health,166321,Kolkata,252,Moderate Rain,Rejected,30
+C0310,Rati Ratti,2025-06-14,Vehicle,112143,Kolkata,172,Heavy Rain,Settled,6
+C0311,Mehul Ganesan,2024-11-19,Agriculture,119984,Kolkata,136,Light Rain,Settled,3
+C0312,Veer Sethi,2025-02-25,Health,175718,Chennai,106,Heavy Rain,Rejected,12
+C0313,Onkar Dash,2025-09-15,Property,381041,Bangalore,143,Light Rain,Pending,28
+C0314,Vaibhav Vala,2025-04-25,Agriculture,253060,Delhi,277,Moderate Rain,Settled,26
+C0315,Eshani Tata,2024-12-26,Vehicle,39432,Mumbai,175,Moderate Rain,Settled,16
+C0316,Aradhya Aurora,2025-05-04,Property,461104,Jaipur,239,Light Rain,Settled,27
+C0317,Amani Yogi,2025-04-07,Agriculture,287077,Mumbai,292,Moderate Rain,Pending,22
+C0318,Taimur Dada,2025-08-13,Health,102230,Pune,209,Light Rain,Settled,28
+C0319,Dharmajan Hayer,2024-10-28,Health,128756,Ahmedabad,299,Flood,Pending,29
+C0320,Taimur Bhandari,2024-11-06,Health,39028,Chennai,84,Moderate Rain,Pending,24
+C0321,Charvi Bhatia,2024-11-29,Health,73017,Kolkata,265,Moderate Rain,Rejected,27
+C0322,Lagan Trivedi,2025-03-29,Agriculture,249151,Ahmedabad,227,Flood,Pending,10
+C0323,Hiran Rajagopalan,2024-12-21,Health,47034,Chennai,74,Flood,Settled,27
+C0324,Faiyaz Kannan,2025-02-27,Property,257733,Ahmedabad,178,Moderate Rain,Pending,11
+C0325,Vihaan Iyengar,2025-08-08,Property,205561,Ahmedabad,252,Flood,Settled,7
+C0326,Ivan Dey,2025-08-30,Health,98282,Jaipur,271,Light Rain,Settled,4
+C0327,Misha Majumdar,2025-07-29,Health,23722,Hyderabad,189,Flood,Settled,16
+C0328,Mamooty Bhatnagar,2025-06-14,Property,362446,Jaipur,127,Moderate Rain,Settled,8
+C0329,Yasmin Bhatia,2025-06-23,Agriculture,99449,Lucknow,75,Heavy Rain,Settled,14
+C0330,Nishith Sekhon,2025-08-21,Agriculture,228570,Pune,143,Heavy Rain,Settled,13
+C0331,Ranbir Sama,2025-01-19,Vehicle,88303,Pune,276,Moderate Rain,Settled,18
+C0332,Zeeshan Chandra,2025-04-13,Property,356018,Bangalore,217,Light Rain,Pending,18
+C0333,Ivan De,2025-03-17,Agriculture,71918,Mumbai,270,Moderate Rain,Rejected,17
+C0334,Amira Ravel,2025-03-19,Vehicle,93311,Jaipur,61,Heavy Rain,Settled,26
+C0335,Manikya Sule,2025-07-16,Health,64203,Chennai,105,Light Rain,Settled,3
+C0336,Badal Chauhan,2024-12-11,Agriculture,270482,Bangalore,241,Light Rain,Settled,14
+C0337,Aarush Bhagat,2025-07-01,Agriculture,283539,Kolkata,68,Heavy Rain,Settled,11
+C0338,Amani Chokshi,2025-06-23,Vehicle,77689,Jaipur,289,Flood,Pending,13
+C0339,Zaina Ravi,2024-11-27,Vehicle,139758,Hyderabad,195,Flood,Pending,30
+C0340,Kartik Rout,2024-12-15,Vehicle,118428,Chennai,265,Moderate Rain,Settled,18
+C0341,Arnav Kaur,2025-05-03,Agriculture,267092,Lucknow,147,Moderate Rain,Settled,22
+C0342,Kanav Tak,2025-04-08,Property,487380,Kolkata,117,Light Rain,Pending,19
+C0343,Devansh Savant,2025-06-05,Health,129173,Pune,228,Moderate Rain,Pending,14
+C0344,Eva Dyal,2025-09-17,Agriculture,292245,Mumbai,293,Heavy Rain,Settled,22
+C0345,Tushar Dugal,2025-06-23,Agriculture,121242,Kolkata,52,Light Rain,Pending,11
+C0346,Lavanya Khosla,2025-08-05,Agriculture,270075,Mumbai,300,Light Rain,Settled,4
+C0347,Shalv Seth,2025-06-23,Health,29623,Pune,180,Heavy Rain,Settled,7
+C0348,Samaira Banerjee,2024-09-29,Property,307439,Lucknow,207,Moderate Rain,Settled,14
+C0349,Zain Agarwal,2024-12-01,Property,430615,Pune,81,Light Rain,Settled,29
+C0350,Taran Deol,2025-08-08,Health,139183,Kolkata,155,Heavy Rain,Pending,15
+C0351,Neelofar Sridhar,2025-04-13,Health,186033,Pune,67,Moderate Rain,Settled,6
+C0352,Nitya Krishnamurthy,2025-01-15,Property,335132,Bangalore,283,Light Rain,Settled,7
+C0353,Dhanuk Vala,2025-07-11,Health,176515,Bangalore,226,Heavy Rain,Pending,28
+C0354,Biju Sha,2025-04-22,Health,130354,Jaipur,155,Moderate Rain,Settled,21
+C0355,Krish Dewan,2024-12-29,Health,143421,Jaipur,153,Flood,Settled,26
+C0356,Aaina Vasa,2024-10-19,Health,168517,Ahmedabad,187,Moderate Rain,Settled,25
+C0357,Adira Subramanian,2025-08-03,Agriculture,123519,Lucknow,277,Moderate Rain,Settled,26
+C0358,Yakshit Swamy,2025-05-23,Health,39502,Delhi,270,Moderate Rain,Pending,6
+C0359,Aarush Dubey,2025-09-23,Property,230753,Lucknow,143,Flood,Settled,6
+C0360,Ahana  Mani,2025-04-01,Vehicle,102604,Hyderabad,149,Heavy Rain,Settled,25
+C0361,Bhavin Chacko,2025-05-31,Property,213785,Hyderabad,267,Heavy Rain,Settled,23
+C0362,Keya Borde,2025-03-23,Agriculture,182962,Kolkata,116,Heavy Rain,Settled,16
+C0363,Samar Chander,2024-11-26,Agriculture,67836,Kolkata,159,Heavy Rain,Settled,18
+C0364,Elakshi Konda,2025-07-23,Agriculture,218467,Hyderabad,124,Flood,Pending,21
+C0365,Faiyaz Tata,2025-08-02,Agriculture,176080,Bangalore,293,Flood,Settled,20
+C0366,Keya Thakkar,2024-12-24,Property,364465,Pune,194,Light Rain,Settled,12
+C0367,Aayush Khatri,2025-07-13,Property,288910,Lucknow,220,Light Rain,Settled,24
+C0368,Tara Mahajan,2024-10-29,Agriculture,79463,Jaipur,229,Moderate Rain,Settled,22
+C0369,Taimur Kota,2025-02-20,Property,278427,Lucknow,59,Flood,Settled,10
+C0370,Kashvi Dani,2025-09-11,Property,424265,Chennai,115,Heavy Rain,Settled,24
+C0371,Kismat Sami,2025-07-19,Health,128882,Ahmedabad,155,Heavy Rain,Settled,6
+C0372,Reyansh Dutta,2025-01-26,Property,149198,Delhi,177,Light Rain,Pending,8
+C0373,Amira Thaker,2025-04-23,Health,28100,Kolkata,299,Light Rain,Pending,16
+C0374,Zara Chauhan,2025-03-07,Vehicle,97339,Delhi,162,Flood,Settled,12
+C0375,Dhanush Karan,2024-11-30,Agriculture,125851,Kolkata,140,Light Rain,Pending,25
+C0376,Nitya Choudhary,2025-02-20,Agriculture,90887,Kolkata,181,Flood,Settled,30
+C0377,Nishith Agrawal,2025-01-20,Agriculture,107863,Mumbai,295,Flood,Rejected,21
+C0378,Zaina Singhal,2025-02-27,Agriculture,195074,Pune,105,Moderate Rain,Settled,7
+C0379,Ela Thakur,2024-10-23,Vehicle,108629,Mumbai,191,Heavy Rain,Settled,28
+C0380,Jayesh Sethi,2025-06-03,Agriculture,102365,Kolkata,116,Light Rain,Pending,25
+C0381,Adah Kale,2025-05-14,Vehicle,48689,Hyderabad,235,Light Rain,Settled,5
+C0382,Tanya Bir,2025-08-27,Health,27420,Hyderabad,92,Moderate Rain,Settled,18
+C0383,Samiha Yohannan,2025-01-08,Property,323905,Bangalore,289,Flood,Pending,11
+C0384,Advik Ganguly,2025-02-12,Health,131179,Chennai,215,Heavy Rain,Settled,8
+C0385,Lavanya Raja,2025-07-24,Property,470986,Kolkata,253,Heavy Rain,Pending,5
+C0386,Indrajit Baral,2025-06-28,Property,412685,Kolkata,291,Light Rain,Settled,29
+C0387,Miraan Issac,2025-02-08,Health,159912,Kolkata,195,Moderate Rain,Pending,13
+C0388,Inaaya  Banik,2025-01-25,Vehicle,109351,Delhi,210,Light Rain,Settled,27
+C0389,Damini Sastry,2025-04-26,Vehicle,45025,Chennai,184,Moderate Rain,Settled,13
+C0390,Nirvaan Desai,2025-01-17,Agriculture,98808,Kolkata,206,Flood,Pending,25
+C0391,Aradhya Thaker,2025-08-18,Property,169041,Mumbai,279,Light Rain,Settled,20
+C0392,Zara Zachariah,2025-06-01,Vehicle,136689,Mumbai,92,Heavy Rain,Settled,22
+C0393,Jhanvi Vyas,2025-05-07,Property,354643,Chennai,255,Heavy Rain,Settled,30
+C0394,Nirvi Dasgupta,2025-01-02,Vehicle,100162,Ahmedabad,157,Light Rain,Pending,15
+C0395,Mannat Manda,2025-02-15,Vehicle,78744,Chennai,201,Heavy Rain,Settled,27
+C0396,Nayantara Arora,2025-02-06,Property,401775,Lucknow,168,Heavy Rain,Settled,7
+C0397,Oorja Contractor,2025-02-08,Agriculture,255417,Kolkata,257,Flood,Settled,14
+C0398,Ishita Khanna,2025-07-10,Health,181305,Delhi,132,Heavy Rain,Rejected,9
+C0399,Shlok Guha,2024-11-17,Property,274952,Chennai,126,Flood,Settled,20
+C0400,Prerak Mandal,2025-01-07,Property,404924,Kolkata,167,Heavy Rain,Pending,9
+C0401,Miraya Choudhury,2024-11-11,Property,372046,Ahmedabad,159,Flood,Pending,16
+C0402,Hazel Arora,2024-10-17,Property,205907,Hyderabad,153,Light Rain,Pending,16
+C0403,Lagan Chahal,2025-06-01,Property,326958,Chennai,191,Heavy Rain,Settled,13
+C0404,Damini Kaur,2025-07-08,Agriculture,266174,Ahmedabad,295,Heavy Rain,Settled,21
+C0405,Hazel Aurora,2024-10-02,Agriculture,285897,Hyderabad,237,Flood,Settled,13
+C0406,Rati Khalsa,2025-02-18,Vehicle,95620,Ahmedabad,239,Moderate Rain,Settled,19
+C0407,Siya Wali,2024-11-23,Property,389033,Ahmedabad,251,Light Rain,Settled,30
+C0408,Divit Kumar,2024-12-08,Property,122207,Mumbai,150,Heavy Rain,Settled,24
+C0409,Prisha Kashyap,2025-04-25,Property,191474,Bangalore,106,Flood,Settled,27
+C0410,Nirvaan Sachar,2025-06-03,Property,291410,Ahmedabad,130,Heavy Rain,Settled,15
+C0411,Rhea Batra,2025-06-11,Property,310353,Delhi,89,Moderate Rain,Settled,19
+C0412,Siya Choudhary,2024-11-25,Agriculture,130545,Pune,78,Light Rain,Settled,26
+C0413,Lakshay Bhatia,2024-12-19,Vehicle,123932,Hyderabad,100,Moderate Rain,Rejected,10
+C0414,Badal Chaudhry,2024-11-06,Property,120239,Mumbai,104,Flood,Rejected,19
+C0415,Adira Tiwari,2025-03-22,Health,85645,Chennai,223,Moderate Rain,Pending,18
+C0416,Jiya Mane,2025-05-25,Health,126201,Bangalore,55,Flood,Settled,3
+C0417,Saksham Suri,2025-03-02,Vehicle,149806,Lucknow,190,Flood,Settled,11
+C0418,Shlok Kakar,2025-03-03,Agriculture,95287,Delhi,181,Heavy Rain,Pending,3
+C0419,Shalv Baral,2025-09-22,Property,266166,Kolkata,162,Light Rain,Settled,4
+C0420,Nirvi Chander,2024-12-16,Health,47036,Ahmedabad,103,Light Rain,Settled,28
+C0421,Zoya Mangal,2025-01-01,Vehicle,148371,Chennai,197,Light Rain,Settled,17
+C0422,Mohanlal Vyas,2024-11-27,Property,137339,Kolkata,208,Moderate Rain,Settled,7
+C0423,Adah Sandal,2025-08-01,Property,325729,Pune,71,Flood,Pending,15
+C0424,Riya Kumar,2025-01-18,Property,461964,Ahmedabad,70,Heavy Rain,Settled,21
+C0425,Lagan Dave,2024-10-14,Property,229032,Chennai,262,Light Rain,Settled,27
+C0426,Riaan Deep,2025-01-16,Agriculture,197198,Delhi,54,Heavy Rain,Settled,25
+C0427,Inaaya  Atwal,2024-11-23,Vehicle,61563,Chennai,279,Flood,Settled,5
+C0428,Anahita Thaker,2025-09-24,Property,110706,Mumbai,271,Flood,Settled,7
+C0429,Ayesha Jaggi,2025-04-13,Property,449169,Ahmedabad,277,Moderate Rain,Rejected,18
+C0430,Nirvaan Raja,2025-02-06,Health,189434,Bangalore,222,Flood,Pending,10
+C0431,Yasmin Bala,2025-08-22,Property,446981,Mumbai,199,Flood,Pending,5
+C0432,Rania Goel,2024-12-12,Property,397071,Delhi,250,Flood,Settled,21
+C0433,Hridaan Khare,2025-03-11,Vehicle,85335,Lucknow,210,Heavy Rain,Pending,14
+C0434,Ayesha Loyal,2025-07-04,Agriculture,151377,Kolkata,264,Heavy Rain,Pending,26
+C0435,Ritvik Varma,2025-06-06,Property,484445,Chennai,259,Heavy Rain,Settled,24
+C0436,Samiha Vohra,2025-05-31,Property,474519,Chennai,197,Light Rain,Pending,12
+C0437,Shamik Bajwa,2025-07-13,Health,127983,Mumbai,252,Light Rain,Settled,14
+C0438,Tushar Maharaj,2024-11-17,Vehicle,123471,Ahmedabad,250,Heavy Rain,Settled,27
+C0439,Divit Bajaj,2025-01-11,Property,128134,Mumbai,119,Heavy Rain,Rejected,14
+C0440,Saanvi Dhaliwal,2024-12-18,Property,152628,Kolkata,90,Moderate Rain,Settled,5
+C0441,Navya Raman,2025-01-05,Health,137660,Jaipur,245,Heavy Rain,Pending,16
+C0442,Amira Gara,2025-03-02,Property,475808,Lucknow,109,Heavy Rain,Rejected,12
+C0443,Madhav Halder,2025-02-19,Health,46717,Ahmedabad,111,Moderate Rain,Settled,10
+C0444,Pari Bava,2024-12-24,Agriculture,203672,Bangalore,155,Light Rain,Pending,21
+C0445,Ivan Kunda,2025-07-30,Health,169241,Lucknow,111,Light Rain,Settled,11
+C0446,Sahil Sridhar,2025-08-05,Health,126759,Kolkata,262,Heavy Rain,Rejected,25
+C0447,Shaan Sha,2025-09-13,Vehicle,84905,Ahmedabad,215,Light Rain,Settled,17
+C0448,Anvi Choudhry,2025-08-05,Health,173463,Bangalore,83,Flood,Settled,15
+C0449,Armaan Rajagopal,2025-05-22,Property,406776,Chennai,223,Heavy Rain,Settled,8
+C0450,Devansh Borah,2025-01-03,Agriculture,160700,Chennai,154,Heavy Rain,Pending,27
+C0451,Yuvraj  Roy,2024-11-25,Agriculture,105429,Chennai,128,Flood,Settled,6
+C0452,Manikya Malhotra,2025-06-10,Vehicle,45791,Lucknow,174,Moderate Rain,Settled,22
+C0453,Gatik Kala,2025-08-15,Agriculture,293603,Jaipur,285,Light Rain,Pending,17
+C0454,Pihu Desai,2025-09-21,Property,397093,Chennai,82,Flood,Pending,25
+C0455,Ahana  Varma,2025-02-01,Agriculture,101337,Lucknow,139,Light Rain,Settled,15
+C0456,Anika Hegde,2025-02-17,Agriculture,299039,Ahmedabad,137,Flood,Settled,13
+C0457,Kavya Srivastava,2025-01-04,Vehicle,54681,Pune,101,Moderate Rain,Rejected,12
+C0458,Inaaya  Uppal,2025-04-29,Vehicle,53250,Pune,252,Flood,Rejected,22
+C0459,Shayak Setty,2025-06-14,Health,72164,Kolkata,157,Moderate Rain,Pending,13
+C0460,Jivin Sharma,2024-10-05,Agriculture,118129,Kolkata,298,Moderate Rain,Pending,27
+C0461,Damini Saini,2024-12-21,Vehicle,85633,Pune,69,Flood,Pending,5
+C0462,Advika Singh,2024-10-04,Agriculture,219048,Pune,220,Heavy Rain,Rejected,10
+C0463,Aarav Sachar,2025-06-22,Vehicle,75926,Kolkata,166,Moderate Rain,Settled,24
+C0464,Dishani Kibe,2024-11-13,Health,55736,Bangalore,106,Heavy Rain,Rejected,17
+C0465,Aradhya Tella,2025-01-07,Agriculture,232901,Hyderabad,174,Flood,Settled,20
+C0466,Badal Gill,2024-10-08,Agriculture,172433,Bangalore,227,Moderate Rain,Pending,18
+C0467,Tarini Vala,2025-07-13,Agriculture,194154,Mumbai,240,Heavy Rain,Settled,8
+C0468,Divij Johal,2025-05-01,Property,300628,Jaipur,66,Light Rain,Settled,24
+C0469,Adah Bahri,2025-02-02,Health,106680,Pune,256,Heavy Rain,Settled,4
+C0470,Yuvraj  Bobal,2025-05-28,Health,130877,Jaipur,106,Light Rain,Settled,13
+C0471,Inaaya  Lanka,2024-11-27,Health,152718,Kolkata,242,Flood,Rejected,30
+C0472,Parinaaz Ganguly,2025-05-08,Vehicle,46479,Jaipur,95,Light Rain,Settled,14
+C0473,Tejas Saran,2025-05-05,Health,175130,Ahmedabad,279,Moderate Rain,Rejected,6
+C0474,Madhup Dass,2025-05-02,Agriculture,137493,Hyderabad,127,Light Rain,Settled,14
+C0475,Renee Bansal,2025-09-09,Agriculture,61749,Pune,210,Flood,Pending,17
+C0476,Anay Srinivas,2025-06-10,Agriculture,246050,Kolkata,130,Moderate Rain,Rejected,8
+C0477,Renee Jha,2025-05-30,Property,119457,Lucknow,188,Moderate Rain,Settled,14
+C0478,Inaaya  Chanda,2025-04-13,Agriculture,192628,Delhi,261,Flood,Pending,11
+C0479,Jayan Sankaran,2025-04-16,Health,102941,Pune,202,Heavy Rain,Settled,30
+C0480,Kaira Sharaf,2025-03-27,Agriculture,241720,Bangalore,214,Moderate Rain,Rejected,4
+C0481,Farhan Deol,2024-12-14,Health,56978,Mumbai,244,Moderate Rain,Settled,24
+C0482,Riaan Dhawan,2025-06-23,Health,128419,Delhi,251,Heavy Rain,Pending,14
+C0483,Trisha Agate,2025-05-30,Agriculture,179522,Bangalore,95,Flood,Rejected,15
+C0484,Jhanvi Kant,2025-09-04,Vehicle,85206,Ahmedabad,297,Moderate Rain,Pending,18
+C0485,Misha Thaker,2024-11-29,Vehicle,31049,Ahmedabad,139,Light Rain,Settled,23
+C0486,Saanvi Vora,2025-02-11,Vehicle,47440,Delhi,230,Light Rain,Settled,6
+C0487,Dishani Bhattacharyya,2025-05-01,Health,120522,Mumbai,160,Moderate Rain,Settled,19
+C0488,Khushi Dhaliwal,2024-10-13,Property,152479,Chennai,187,Moderate Rain,Settled,3
+C0489,Mohanlal Gara,2025-01-09,Health,23632,Delhi,97,Flood,Settled,5
+C0490,Tushar Srinivasan,2025-06-03,Vehicle,106973,Lucknow,249,Light Rain,Settled,11
+C0491,Aarav Randhawa,2025-05-28,Health,54045,Mumbai,134,Heavy Rain,Settled,23
+C0492,Kiaan Gour,2025-04-05,Health,176249,Hyderabad,53,Moderate Rain,Rejected,15
+C0493,Fateh Bains,2025-04-06,Health,168599,Hyderabad,180,Light Rain,Rejected,12
+C0494,Adah Handa,2025-06-24,Health,55406,Jaipur,262,Flood,Settled,20
+C0495,Azad Kapur,2025-08-03,Health,23521,Jaipur,165,Flood,Pending,10
+C0496,Navya Sur,2025-01-09,Agriculture,135850,Hyderabad,110,Moderate Rain,Pending,29
+C0497,Mishti Subramaniam,2025-07-08,Agriculture,270540,Hyderabad,299,Light Rain,Settled,8
+C0498,Anay Kunda,2025-05-03,Vehicle,111196,Jaipur,250,Heavy Rain,Rejected,10
+C0499,Dhanush Ganesan,2025-04-25,Vehicle,81863,Ahmedabad,221,Light Rain,Settled,28
+C0500,Saira Sandal,2025-04-01,Property,394122,Chennai,153,Light Rain,Settled,24
+C0501,Arnav Bhattacharyya,2024-11-30,Property,458137,Kolkata,202,Light Rain,Settled,5
+C0502,Advika Kumer,2024-11-14,Vehicle,66671,Kolkata,101,Heavy Rain,Settled,5
+C0503,Ishaan Tailor,2025-09-21,Vehicle,105072,Jaipur,220,Heavy Rain,Settled,24
+C0504,Miraan Chad,2025-04-16,Health,180084,Kolkata,176,Light Rain,Settled,29
+C0505,Nayantara Shukla,2025-07-20,Health,163631,Bangalore,139,Flood,Settled,18
+C0506,Bhamini Bakshi,2025-09-01,Vehicle,36774,Lucknow,142,Moderate Rain,Settled,20
+C0507,Samarth Johal,2025-07-02,Property,334028,Pune,229,Flood,Settled,18
+C0508,Prerak Manne,2024-11-21,Agriculture,239116,Jaipur,151,Heavy Rain,Settled,24
+C0509,Rhea Trivedi,2025-08-17,Agriculture,64599,Delhi,98,Light Rain,Settled,27
+C0510,Bhamini Som,2025-04-24,Health,25852,Hyderabad,149,Flood,Settled,5
+C0511,Mishti Vohra,2024-12-05,Agriculture,53576,Delhi,196,Moderate Rain,Settled,6
+C0512,Mishti Shroff,2025-08-21,Property,220511,Delhi,236,Flood,Pending,5
+C0513,Ehsaan Balan,2025-04-09,Vehicle,36129,Pune,119,Flood,Settled,27
+C0514,Miraan Hayer,2025-08-09,Vehicle,139580,Chennai,113,Heavy Rain,Settled,27
+C0515,Keya Mani,2025-04-24,Property,268908,Lucknow,204,Heavy Rain,Rejected,12
+C0516,Darshit Sethi,2024-12-14,Property,238487,Chennai,223,Moderate Rain,Settled,21
+C0517,Renee Sani,2024-11-01,Health,78939,Kolkata,287,Heavy Rain,Settled,28
+C0518,Miraan Deep,2025-06-25,Property,290102,Ahmedabad,83,Heavy Rain,Settled,7
+C0519,Riya Ramesh,2025-07-29,Property,453073,Kolkata,202,Moderate Rain,Pending,15
+C0520,Nehmat Sachdev,2025-09-20,Property,164288,Bangalore,276,Light Rain,Settled,24
+C0521,Anaya Ramesh,2024-10-29,Vehicle,132114,Chennai,188,Moderate Rain,Pending,30
+C0522,Eshani Badal,2025-01-03,Property,245709,Lucknow,264,Moderate Rain,Pending,7
+C0523,Damini Saxena,2025-08-15,Property,413901,Kolkata,179,Moderate Rain,Pending,22
+C0524,Manjari Vala,2025-05-25,Property,293664,Mumbai,298,Moderate Rain,Pending,23
+C0525,Saksham Buch,2025-01-22,Health,99675,Bangalore,80,Moderate Rain,Settled,4
+C0526,Shaan Karpe,2024-09-29,Vehicle,84860,Ahmedabad,272,Light Rain,Pending,26
+C0527,Fateh Jayaraman,2025-05-04,Agriculture,130437,Lucknow,178,Heavy Rain,Settled,14
+C0528,Tejas Hari,2024-12-05,Property,376290,Kolkata,101,Flood,Settled,18
+C0529,Rhea Virk,2025-07-30,Vehicle,110451,Pune,71,Moderate Rain,Settled,23
+C0530,Shamik Deep,2025-07-23,Agriculture,178635,Kolkata,294,Moderate Rain,Settled,20
+C0531,Siya Rajan,2024-12-14,Agriculture,87256,Delhi,144,Light Rain,Pending,23
+C0532,Trisha Borra,2025-06-13,Property,134806,Kolkata,148,Moderate Rain,Settled,25
+C0533,Lakshit Sastry,2025-09-04,Property,127925,Ahmedabad,267,Light Rain,Settled,20
+C0534,Mamooty Guha,2025-06-04,Health,114467,Ahmedabad,246,Moderate Rain,Rejected,18
+C0535,Ivan Doshi,2025-02-23,Agriculture,85749,Pune,80,Light Rain,Settled,10
+C0536,Samiha Sem,2024-11-01,Vehicle,34464,Delhi,287,Flood,Pending,22
+C0537,Mishti Keer,2025-05-23,Vehicle,61216,Ahmedabad,111,Flood,Settled,4
+C0538,Fateh Dalal,2025-03-12,Health,63287,Mumbai,232,Flood,Rejected,6
+C0539,Tiya Seshadri,2025-03-10,Health,167649,Delhi,265,Flood,Pending,20
+C0540,Tushar Rastogi,2025-07-04,Property,391037,Lucknow,152,Moderate Rain,Settled,27
+C0541,Mamooty Chaudhuri,2025-05-01,Property,236255,Kolkata,148,Light Rain,Settled,10
+C0542,Devansh Sethi,2025-06-16,Vehicle,32679,Bangalore,247,Moderate Rain,Settled,5
+C0543,Hridaan Dutta,2024-11-06,Vehicle,109933,Mumbai,172,Heavy Rain,Pending,24
+C0544,Gatik Rege,2025-09-18,Health,199080,Hyderabad,68,Light Rain,Settled,11
+C0545,Biju Sankar,2024-12-16,Property,319082,Pune,294,Moderate Rain,Rejected,7
+C0546,Anika Ramachandran,2025-08-17,Vehicle,89074,Pune,262,Moderate Rain,Pending,22
+C0547,Misha Boase,2025-08-16,Vehicle,141637,Bangalore,155,Light Rain,Settled,8
+C0548,Mahika Sandal,2025-07-03,Vehicle,115994,Kolkata,274,Flood,Settled,12
+C0549,Zara Ramesh,2024-10-18,Agriculture,74414,Bangalore,286,Flood,Settled,22
+C0550,Tejas Kakar,2024-12-17,Agriculture,191274,Bangalore,73,Flood,Pending,5
+C0551,Kimaya Borde,2025-01-30,Property,102077,Bangalore,56,Light Rain,Settled,7
+C0552,Taimur Dixit,2024-12-25,Vehicle,84146,Mumbai,110,Moderate Rain,Settled,14
+C0553,Inaaya  Virk,2025-04-06,Vehicle,54574,Lucknow,209,Moderate Rain,Rejected,29
+C0554,Darshit Krish,2025-09-25,Health,51992,Bangalore,209,Moderate Rain,Settled,25
+C0555,Navya Kapoor,2024-11-17,Vehicle,140890,Chennai,148,Light Rain,Pending,24
+C0556,Mehul Randhawa,2025-03-27,Vehicle,60262,Bangalore,194,Heavy Rain,Settled,15
+C0557,Neysa Wable,2025-02-28,Health,100331,Lucknow,162,Heavy Rain,Settled,5
+C0558,Inaaya  Shankar,2024-11-19,Agriculture,134660,Pune,297,Light Rain,Settled,12
+C0559,Neysa Kunda,2025-03-29,Health,71275,Mumbai,199,Moderate Rain,Pending,16
+C0560,Kanav Gandhi,2025-08-18,Agriculture,74827,Pune,213,Heavy Rain,Settled,5
+C0561,Adira Amble,2025-05-27,Property,225766,Jaipur,240,Flood,Settled,11
+C0562,Siya Bava,2025-02-17,Vehicle,85051,Kolkata,99,Moderate Rain,Settled,5
+C0563,Saanvi Sachdeva,2025-07-18,Health,63509,Hyderabad,90,Moderate Rain,Settled,26
+C0564,Vritika Babu,2025-06-30,Property,303386,Mumbai,264,Light Rain,Settled,26
+C0565,Shlok Bala,2025-05-19,Property,277820,Jaipur,64,Flood,Settled,17
+C0566,Tarini Arora,2025-09-23,Property,404625,Jaipur,258,Heavy Rain,Pending,19
+C0567,Elakshi Vasa,2024-10-23,Agriculture,269203,Mumbai,90,Flood,Settled,13
+C0568,Mahika Walia,2024-12-04,Health,57791,Jaipur,281,Light Rain,Pending,8
+C0569,Gatik Sehgal,2025-03-27,Health,136938,Lucknow,268,Moderate Rain,Settled,22
+C0570,Advika Reddy,2025-08-10,Health,154446,Pune,156,Flood,Settled,30
+C0571,Vanya Borah,2025-02-22,Agriculture,175047,Ahmedabad,208,Light Rain,Settled,14
+C0572,Advik Loyal,2024-11-26,Agriculture,109251,Chennai,185,Heavy Rain,Pending,11
+C0573,Anvi Tara,2025-09-14,Vehicle,102836,Ahmedabad,165,Moderate Rain,Settled,18
+C0574,Arhaan Bal,2025-02-09,Agriculture,58891,Pune,181,Flood,Settled,17
+C0575,Priyansh Sant,2024-10-25,Health,171006,Mumbai,240,Heavy Rain,Settled,27
+C0576,Yakshit Sethi,2024-12-22,Agriculture,120703,Mumbai,221,Flood,Pending,12
+C0577,Nitara Chacko,2024-10-01,Agriculture,251467,Kolkata,166,Flood,Pending,11
+C0578,Inaaya  Bhatnagar,2025-02-17,Vehicle,94989,Hyderabad,100,Light Rain,Settled,28
+C0579,Pihu Swamy,2025-08-22,Health,76732,Hyderabad,162,Flood,Pending,9
+C0580,Kimaya Sachar,2025-07-29,Vehicle,91127,Hyderabad,171,Flood,Settled,15
+C0581,Madhup Mann,2025-02-27,Health,138079,Kolkata,109,Light Rain,Pending,26
+C0582,Sara Sahota,2025-08-18,Property,347752,Pune,180,Heavy Rain,Settled,28
+C0583,Samarth Varkey,2025-03-18,Property,180897,Pune,245,Flood,Settled,19
+C0584,Amani Joshi,2025-01-25,Property,341256,Lucknow,56,Flood,Settled,16
+C0585,Aarav Dubey,2025-03-24,Vehicle,149674,Delhi,216,Heavy Rain,Rejected,10
+C0586,Jayant Mann,2024-11-27,Agriculture,190483,Hyderabad,280,Heavy Rain,Pending,18
+C0587,Reyansh Zacharia,2025-08-29,Health,62956,Bangalore,207,Moderate Rain,Rejected,7
+C0588,Romil Randhawa,2025-03-30,Vehicle,124037,Ahmedabad,223,Moderate Rain,Settled,8
+C0589,Devansh Dar,2025-07-08,Agriculture,165479,Jaipur,99,Heavy Rain,Rejected,6
+C0590,Tiya Sinha,2025-03-07,Agriculture,67098,Kolkata,136,Flood,Settled,4
+C0591,Ritvik Deshpande,2025-02-25,Health,95950,Kolkata,135,Moderate Rain,Settled,13
+C0592,Uthkarsh Handa,2025-09-04,Vehicle,101763,Lucknow,58,Moderate Rain,Pending,7
+C0593,Kabir Goel,2024-10-21,Agriculture,94660,Kolkata,178,Flood,Settled,15
+C0594,Armaan Mannan,2025-01-04,Agriculture,131079,Hyderabad,178,Flood,Rejected,22
+C0595,Farhan Srinivasan,2024-10-10,Health,175623,Hyderabad,271,Flood,Settled,20
+C0596,Manjari Ratta,2025-04-29,Property,346484,Lucknow,86,Moderate Rain,Pending,12
+C0597,Jivika Bhasin,2025-01-12,Health,114745,Ahmedabad,114,Moderate Rain,Pending,10
+C0598,Advika Hari,2024-11-25,Vehicle,37947,Pune,76,Flood,Pending,29
+C0599,Ehsaan Mannan,2024-10-31,Property,306907,Lucknow,180,Flood,Settled,15
+C0600,Neysa Chokshi,2025-01-18,Agriculture,234841,Kolkata,174,Light Rain,Settled,10
+C0601,Zara Tailor,2025-06-17,Agriculture,87973,Pune,268,Heavy Rain,Rejected,7
+C0602,Ritvik Saran,2024-11-09,Health,52633,Pune,246,Moderate Rain,Settled,23
+C0603,Nishith Mani,2025-08-10,Health,124525,Mumbai,263,Heavy Rain,Settled,12
+C0604,Advika Deshpande,2025-03-30,Property,439553,Ahmedabad,85,Moderate Rain,Settled,29
+C0605,Hansh Khosla,2024-10-12,Agriculture,245654,Jaipur,232,Moderate Rain,Settled,5
+C0606,Aarush Yohannan,2025-09-23,Vehicle,89471,Mumbai,253,Heavy Rain,Settled,28
+C0607,Neelofar Kade,2024-10-16,Health,20793,Mumbai,228,Flood,Pending,14
+C0608,Pari Baral,2024-10-18,Vehicle,121435,Pune,81,Light Rain,Settled,18
+C0609,Ahana  Raja,2025-05-12,Vehicle,136317,Bangalore,233,Light Rain,Settled,23
+C0610,Aniruddh Ghose,2025-08-08,Health,121604,Hyderabad,296,Light Rain,Rejected,19
+C0611,Navya Tak,2025-04-03,Health,55706,Kolkata,182,Light Rain,Settled,25
+C0612,Vardaniya Mallick,2025-08-05,Vehicle,143099,Mumbai,53,Moderate Rain,Settled,15
+C0613,Ira Kohli,2025-03-23,Vehicle,88028,Lucknow,136,Heavy Rain,Settled,7
+C0614,Pranay Joshi,2025-04-23,Property,340102,Delhi,123,Light Rain,Settled,10
+C0615,Anahi Sant,2024-12-04,Agriculture,230339,Pune,235,Light Rain,Pending,3
+C0616,Vivaan Brahmbhatt,2024-10-31,Vehicle,114368,Hyderabad,215,Flood,Settled,28
+C0617,Manjari Goswami,2025-02-24,Property,185388,Lucknow,84,Heavy Rain,Settled,9
+C0618,Kimaya Dhar,2025-03-06,Property,484065,Lucknow,190,Light Rain,Settled,16
+C0619,Ira Gandhi,2025-04-20,Agriculture,286147,Bangalore,82,Flood,Pending,7
+C0620,Aaina Rattan,2024-10-05,Health,128669,Chennai,110,Moderate Rain,Pending,20
+C0621,Saanvi Soman,2024-12-04,Vehicle,129072,Bangalore,166,Moderate Rain,Pending,23
+C0622,Zara Uppal,2025-02-14,Health,124800,Lucknow,214,Light Rain,Settled,24
+C0623,Navya Chaudry,2025-04-22,Agriculture,199403,Bangalore,99,Moderate Rain,Settled,30
+C0624,Purab Cherian,2025-04-05,Agriculture,199430,Chennai,91,Moderate Rain,Settled,19
+C0625,Zoya Chadha,2025-01-14,Property,396171,Kolkata,263,Light Rain,Settled,23
+C0626,Ayesha Kar,2025-05-13,Agriculture,254072,Mumbai,286,Flood,Settled,18
+C0627,Ryan Grewal,2025-06-26,Agriculture,280382,Chennai,272,Light Rain,Settled,24
+C0628,Prisha Dyal,2025-09-07,Health,183367,Ahmedabad,242,Light Rain,Settled,30
+C0629,Armaan Khare,2025-07-26,Agriculture,107344,Chennai,195,Moderate Rain,Settled,16
+C0630,Ryan Ratta,2024-12-30,Health,189499,Chennai,60,Moderate Rain,Settled,29
+C0631,Zain Dayal,2025-02-11,Vehicle,51018,Hyderabad,80,Flood,Rejected,27
+C0632,Yuvraj  Bhalla,2025-04-29,Agriculture,71662,Bangalore,215,Light Rain,Settled,12
+C0633,Himmat Buch,2025-01-08,Agriculture,201074,Pune,82,Heavy Rain,Settled,29
+C0634,Sana Kala,2025-07-04,Vehicle,101116,Mumbai,61,Light Rain,Settled,19
+C0635,Samiha Vohra,2025-01-07,Vehicle,89347,Ahmedabad,234,Flood,Settled,26
+C0636,Alisha Bhavsar,2025-08-06,Health,139559,Lucknow,83,Light Rain,Settled,22
+C0637,Damini Sibal,2025-06-06,Agriculture,267166,Ahmedabad,125,Moderate Rain,Settled,10
+C0638,Eshani Vala,2025-02-28,Property,302889,Chennai,58,Heavy Rain,Pending,9
+C0639,Aarna Bandi,2024-12-30,Property,308262,Hyderabad,101,Moderate Rain,Settled,30
+C0640,Nirvi Dayal,2024-11-17,Property,382524,Chennai,128,Flood,Pending,27
+C0641,Rasha Rajagopalan,2025-02-25,Vehicle,133946,Chennai,163,Flood,Rejected,13
+C0642,Baiju Singhal,2024-11-24,Vehicle,72982,Kolkata,114,Flood,Pending,22
+C0643,Ahana  Anand,2024-10-05,Property,129470,Bangalore,84,Flood,Settled,5
+C0644,Divij Kapadia,2025-03-03,Agriculture,240454,Jaipur,185,Light Rain,Pending,20
+C0645,Dhanush Joshi,2025-08-30,Property,256844,Pune,50,Heavy Rain,Settled,28
+C0646,Alisha Barad,2025-03-28,Agriculture,258747,Bangalore,296,Light Rain,Settled,7
+C0647,Lakshay Balakrishnan,2025-05-26,Vehicle,112690,Chennai,177,Heavy Rain,Settled,14
+C0648,Aaina Hora,2025-04-18,Vehicle,60701,Mumbai,64,Light Rain,Pending,17
+C0649,Darshit Sabharwal,2024-11-21,Vehicle,62270,Jaipur,265,Flood,Settled,23
+C0650,Aarna Bajaj,2025-09-04,Health,169001,Chennai,289,Heavy Rain,Rejected,15
+C0651,Misha Gola,2024-12-31,Vehicle,32043,Hyderabad,142,Light Rain,Settled,25
+C0652,Alisha Buch,2025-04-08,Vehicle,55261,Chennai,124,Heavy Rain,Settled,9
+C0653,Mohanlal Dhillon,2025-01-19,Property,301108,Chennai,255,Moderate Rain,Settled,25
+C0654,Ranbir Majumdar,2025-02-08,Property,282073,Jaipur,172,Moderate Rain,Settled,11
+C0655,Ivana Setty,2025-04-07,Agriculture,281527,Jaipur,83,Heavy Rain,Rejected,28
+C0656,Ryan Sami,2025-08-30,Health,69219,Lucknow,87,Moderate Rain,Pending,27
+C0657,Hridaan Vaidya,2024-10-29,Health,187530,Mumbai,213,Light Rain,Rejected,4
+C0658,Taimur De,2024-10-13,Property,401185,Pune,195,Flood,Pending,14
+C0659,Parinaaz Atwal,2025-08-01,Vehicle,127712,Bangalore,114,Moderate Rain,Settled,4
+C0660,Kabir Maharaj,2024-12-09,Vehicle,84721,Hyderabad,128,Flood,Settled,5
+C0661,Yuvaan Gaba,2024-11-29,Health,185452,Hyderabad,52,Heavy Rain,Pending,16
+C0662,Armaan Mahal,2025-04-07,Agriculture,219883,Jaipur,180,Heavy Rain,Pending,29
+C0663,Biju Dhar,2024-12-02,Vehicle,92235,Mumbai,63,Light Rain,Settled,4
+C0664,Bhamini Gola,2025-09-02,Vehicle,146949,Jaipur,136,Heavy Rain,Settled,15
+C0665,Romil Chopra,2025-07-18,Property,109926,Delhi,150,Heavy Rain,Settled,4
+C0666,Advik Dora,2025-01-21,Property,412549,Hyderabad,128,Light Rain,Settled,29
+C0667,Madhup Sha,2025-06-27,Health,72813,Ahmedabad,296,Flood,Settled,16
+C0668,Charvi Varghese,2025-05-29,Health,189445,Ahmedabad,298,Moderate Rain,Settled,11
+C0669,Samiha Handa,2024-12-09,Health,113555,Jaipur,120,Heavy Rain,Settled,19
+C0670,Indranil Sood,2025-03-05,Agriculture,117711,Chennai,200,Heavy Rain,Settled,10
+C0671,Piya Saraf,2025-05-27,Agriculture,137327,Jaipur,254,Moderate Rain,Settled,3
+C0672,Nirvi Ramachandran,2025-01-22,Property,183630,Mumbai,227,Heavy Rain,Settled,28
+C0673,Veer Srinivas,2025-04-19,Health,144740,Jaipur,252,Light Rain,Settled,15
+C0674,Nitara Das,2025-01-21,Property,388922,Delhi,94,Heavy Rain,Rejected,23
+C0675,Riya Gera,2024-11-17,Health,31760,Lucknow,128,Heavy Rain,Rejected,16
+C0676,Arhaan Biswas,2024-12-25,Health,146984,Bangalore,292,Light Rain,Settled,11
+C0677,Lagan Banik,2024-11-25,Agriculture,126026,Pune,274,Flood,Pending,21
+C0678,Jivika Lal,2025-02-16,Health,185819,Lucknow,207,Flood,Settled,26
+C0679,Sana Kanda,2025-05-15,Property,277421,Kolkata,182,Moderate Rain,Settled,11
+C0680,Nakul Varkey,2025-06-04,Agriculture,82458,Ahmedabad,126,Moderate Rain,Settled,25
+C0681,Shanaya Desai,2025-01-09,Health,52720,Kolkata,214,Heavy Rain,Settled,10
+C0682,Arnav Roy,2025-07-10,Property,309654,Delhi,105,Heavy Rain,Rejected,23
+C0683,Jivika De,2025-03-12,Agriculture,65339,Mumbai,281,Moderate Rain,Pending,20
+C0684,Dishani Tank,2025-03-27,Property,402796,Chennai,70,Light Rain,Pending,26
+C0685,Romil Keer,2025-08-17,Agriculture,138017,Chennai,273,Heavy Rain,Settled,17
+C0686,Anahi Som,2024-11-15,Vehicle,140526,Mumbai,221,Flood,Settled,27
+C0687,Kiara Chana,2025-08-15,Agriculture,247471,Mumbai,158,Flood,Settled,7
+C0688,Nayantara Rattan,2025-04-17,Agriculture,290355,Mumbai,259,Light Rain,Settled,26
+C0689,Ehsaan Deshmukh,2025-08-27,Health,89690,Pune,212,Heavy Rain,Settled,6
+C0690,Prisha Rama,2025-02-02,Agriculture,178911,Kolkata,233,Moderate Rain,Settled,18
+C0691,Miraya Kala,2024-11-18,Vehicle,32714,Mumbai,91,Moderate Rain,Pending,18
+C0692,Tushar D’Alia,2024-10-26,Agriculture,107365,Mumbai,184,Moderate Rain,Settled,27
+C0693,Dhruv Sanghvi,2024-10-11,Agriculture,107282,Lucknow,137,Light Rain,Rejected,17
+C0694,Lagan Vaidya,2024-12-30,Health,159424,Delhi,195,Flood,Pending,9
+C0695,Ela Dash,2025-08-09,Vehicle,141855,Mumbai,69,Flood,Pending,12
+C0696,Gatik Gera,2024-10-05,Vehicle,138690,Mumbai,125,Heavy Rain,Rejected,26
+C0697,Shayak Chhabra,2025-07-17,Health,135100,Jaipur,71,Light Rain,Settled,3
+C0698,Mannat Deshmukh,2025-04-06,Vehicle,80966,Chennai,258,Light Rain,Pending,28
+C0699,Gatik Kumer,2024-12-25,Vehicle,44311,Jaipur,117,Moderate Rain,Settled,12
+C0700,Piya Korpal,2025-04-22,Property,416674,Bangalore,95,Moderate Rain,Settled,19
+C0701,Vaibhav Ben,2025-06-26,Agriculture,251154,Jaipur,68,Heavy Rain,Settled,15
+C0702,Shanaya Ramakrishnan,2025-09-09,Property,493128,Delhi,276,Heavy Rain,Settled,12
+C0703,Prerak Trivedi,2025-03-08,Property,317873,Kolkata,83,Light Rain,Settled,4
+C0704,Elakshi Dayal,2025-09-19,Property,200231,Hyderabad,158,Flood,Pending,20
+C0705,Sahil Aurora,2025-07-01,Property,137326,Delhi,57,Moderate Rain,Pending,11
+C0706,Tiya Rao,2024-11-22,Property,396729,Mumbai,283,Moderate Rain,Pending,18
+C0707,Oorja Ahluwalia,2025-01-30,Property,265258,Lucknow,297,Moderate Rain,Rejected,5
+C0708,Diya Keer,2025-06-18,Agriculture,203928,Mumbai,180,Flood,Pending,4
+C0709,Baiju Atwal,2024-12-20,Property,146362,Bangalore,89,Heavy Rain,Rejected,8
+C0710,Sara Sane,2025-09-07,Property,296980,Bangalore,84,Moderate Rain,Settled,12
+C0711,Shanaya Banerjee,2024-09-27,Agriculture,243267,Ahmedabad,93,Light Rain,Settled,15
+C0712,Ahana  Bansal,2024-09-29,Property,304251,Jaipur,151,Moderate Rain,Rejected,5
+C0713,Divyansh Johal,2025-04-26,Vehicle,56036,Chennai,216,Heavy Rain,Settled,3
+C0714,Advika Ravi,2025-09-25,Health,67922,Kolkata,147,Moderate Rain,Rejected,9
+C0715,Biju Desai,2025-06-26,Property,155438,Delhi,59,Heavy Rain,Settled,13
+C0716,Uthkarsh Sha,2024-10-15,Health,150374,Delhi,111,Light Rain,Settled,25
+C0717,Manikya Shere,2024-11-27,Property,314967,Jaipur,144,Light Rain,Settled,5
+C0718,Seher Golla,2025-06-18,Vehicle,78736,Mumbai,207,Flood,Settled,17
+C0719,Ishita Samra,2025-06-04,Health,97020,Delhi,270,Heavy Rain,Settled,3
+C0720,Shayak Behl,2025-02-06,Agriculture,148685,Mumbai,146,Heavy Rain,Pending,22
+C0721,Sahil Borra,2025-04-24,Property,327575,Chennai,269,Flood,Settled,4
+C0722,Ira Vasa,2024-11-14,Property,326683,Kolkata,247,Flood,Settled,5
+C0723,Neysa Kuruvilla,2024-12-24,Property,415176,Chennai,194,Heavy Rain,Settled,10
+C0724,Nirvi Ahluwalia,2025-02-25,Vehicle,40472,Pune,158,Flood,Pending,3
+C0725,Rania Chand,2024-11-23,Vehicle,83418,Lucknow,239,Flood,Settled,12
+C0726,Samarth Ravel,2025-02-24,Property,380310,Ahmedabad,169,Moderate Rain,Settled,23
+C0727,Baiju Sami,2025-07-13,Agriculture,50527,Hyderabad,65,Moderate Rain,Rejected,23
+C0728,Tiya Raj,2024-10-10,Vehicle,82455,Mumbai,206,Moderate Rain,Pending,12
+C0729,Adah Vasa,2025-03-13,Vehicle,49573,Pune,260,Heavy Rain,Settled,5
+C0730,Aarav Bhasin,2024-10-12,Health,22776,Lucknow,73,Light Rain,Settled,9
+C0731,Prisha Ganguly,2025-04-22,Agriculture,134290,Hyderabad,276,Flood,Settled,10
+C0732,Taran Kapadia,2025-08-07,Vehicle,52059,Mumbai,151,Light Rain,Pending,17
+C0733,Tara Sama,2025-08-28,Agriculture,161377,Hyderabad,186,Flood,Pending,20
+C0734,Urvi Krish,2024-11-13,Property,480460,Pune,288,Moderate Rain,Settled,23
+C0735,Nirvaan Kuruvilla,2024-11-05,Agriculture,112766,Bangalore,206,Flood,Pending,3
+C0736,Drishya Lal,2025-08-03,Property,188169,Hyderabad,152,Moderate Rain,Settled,7
+C0737,Rati Chahal,2025-05-05,Vehicle,67026,Chennai,277,Heavy Rain,Rejected,16
+C0738,Keya Varughese,2024-10-14,Health,93778,Hyderabad,266,Moderate Rain,Settled,30
+C0739,Ryan Chahal,2025-04-09,Property,273450,Delhi,67,Light Rain,Settled,17
+C0740,Hridaan Handa,2025-06-30,Agriculture,128590,Bangalore,160,Light Rain,Pending,18
+C0741,Pari Shenoy,2024-09-28,Health,169307,Mumbai,59,Flood,Pending,15
+C0742,Bhavin Swaminathan,2025-09-19,Vehicle,148551,Lucknow,57,Light Rain,Pending,28
+C0743,Shanaya Bhatt,2025-01-28,Health,126825,Ahmedabad,265,Light Rain,Pending,13
+C0744,Hrishita Bal,2025-07-25,Vehicle,103914,Lucknow,227,Heavy Rain,Pending,25
+C0745,Aarav Sharaf,2025-07-29,Property,205112,Hyderabad,200,Flood,Settled,21
+C0746,Indrajit Som,2025-03-24,Agriculture,83110,Bangalore,167,Moderate Rain,Settled,15
+C0747,Sara Mann,2025-09-05,Health,65660,Chennai,79,Light Rain,Rejected,29
+C0748,Saanvi Savant,2025-03-14,Health,70209,Bangalore,156,Moderate Rain,Settled,28
+C0749,Nirvi Bhagat,2025-03-16,Health,78985,Pune,122,Flood,Settled,30
+C0750,Eshani Sani,2025-08-20,Agriculture,272361,Kolkata,68,Light Rain,Rejected,17
+C0751,Armaan Ranganathan,2025-01-22,Vehicle,117856,Ahmedabad,288,Flood,Settled,4
+C0752,Manjari Tandon,2025-05-29,Vehicle,99020,Mumbai,155,Light Rain,Settled,24
+C0753,Mannat Randhawa,2025-02-23,Property,187956,Pune,241,Light Rain,Settled,7
+C0754,Nitara Apte,2024-12-04,Health,147020,Mumbai,194,Light Rain,Settled,19
+C0755,Mannat Sura,2025-01-25,Property,173598,Bangalore,216,Flood,Settled,16
+C0756,Sara Sane,2025-01-13,Vehicle,86213,Lucknow,183,Heavy Rain,Settled,22
+C0757,Advik Deshmukh,2025-01-10,Health,93937,Lucknow,143,Heavy Rain,Pending,25
+C0758,Dishani Sur,2024-11-14,Health,38098,Pune,148,Moderate Rain,Settled,12
+C0759,Sahil Gaba,2024-10-12,Property,209552,Hyderabad,77,Heavy Rain,Settled,9
+C0760,Taimur Dass,2025-04-04,Health,186329,Lucknow,257,Heavy Rain,Settled,19
+C0761,Akarsh Handa,2025-04-10,Property,424376,Chennai,82,Light Rain,Pending,5
+C0762,Kimaya Rau,2025-05-19,Health,189442,Pune,171,Light Rain,Settled,5
+C0763,Kismat Bora,2025-01-07,Health,44633,Bangalore,240,Moderate Rain,Rejected,26
+C0764,Tarini Ramesh,2025-04-19,Vehicle,34812,Kolkata,245,Light Rain,Settled,25
+C0765,Kartik Krishnan,2025-02-27,Vehicle,46060,Bangalore,126,Flood,Pending,9
+C0766,Ela Ram,2025-03-08,Agriculture,122553,Mumbai,83,Flood,Pending,24
+C0767,Elakshi Karpe,2025-03-03,Agriculture,116661,Hyderabad,93,Flood,Pending,6
+C0768,Divyansh Balan,2025-02-25,Property,146932,Ahmedabad,214,Moderate Rain,Settled,3
+C0769,Badal Chahal,2025-01-23,Agriculture,94398,Bangalore,121,Flood,Settled,17
+C0770,Hunar Dhar,2025-06-03,Property,330318,Bangalore,150,Flood,Settled,18
+C0771,Rhea Swamy,2025-02-07,Health,156273,Lucknow,93,Light Rain,Settled,8
+C0772,Indranil Borah,2025-08-19,Health,185467,Hyderabad,99,Moderate Rain,Settled,16
+C0773,Arhaan Dhillon,2025-01-24,Vehicle,130556,Kolkata,261,Heavy Rain,Pending,10
+C0774,Hazel Sandhu,2024-10-24,Vehicle,88264,Kolkata,105,Flood,Settled,26
+C0775,Indrans Venkataraman,2024-12-07,Health,103898,Ahmedabad,199,Light Rain,Settled,4
+C0776,Hunar Joshi,2025-05-06,Agriculture,89828,Lucknow,286,Flood,Pending,11
+C0777,Aarush Thaker,2025-07-31,Health,185914,Jaipur,76,Light Rain,Settled,8
+C0778,Vardaniya Sidhu,2025-09-19,Health,60879,Pune,89,Heavy Rain,Settled,10
+C0779,Jayesh Ramachandran,2025-05-18,Vehicle,51935,Jaipur,93,Light Rain,Settled,26
+C0780,Reyansh Sanghvi,2025-04-18,Property,303421,Chennai,151,Light Rain,Settled,11
+C0781,Heer Acharya,2024-10-24,Health,144108,Bangalore,111,Flood,Settled,22
+C0782,Hansh Sura,2024-11-30,Vehicle,30576,Delhi,135,Light Rain,Settled,14
+C0783,Miraan Solanki,2024-11-13,Health,59603,Mumbai,63,Flood,Pending,22
+C0784,Madhup Chatterjee,2025-04-12,Health,27555,Mumbai,174,Heavy Rain,Settled,28
+C0785,Aarav Bhat,2025-03-22,Vehicle,114572,Kolkata,263,Flood,Settled,7
+C0786,Alia Jaggi,2025-08-28,Vehicle,144606,Chennai,300,Heavy Rain,Settled,16
+C0787,Tejas Deshmukh,2025-05-12,Agriculture,282755,Kolkata,242,Heavy Rain,Settled,18
+C0788,Ishaan Sha,2024-11-05,Agriculture,283868,Jaipur,239,Flood,Settled,5
+C0789,Tanya Shere,2025-02-19,Health,133829,Bangalore,64,Heavy Rain,Pending,24
+C0790,Yashvi Savant,2025-04-27,Vehicle,140408,Lucknow,115,Moderate Rain,Settled,10
+C0791,Jiya Choudhary,2025-04-14,Health,67368,Bangalore,156,Moderate Rain,Settled,19
+C0792,Hunar Kant,2024-12-24,Health,80029,Delhi,226,Light Rain,Settled,6
+C0793,Oorja Lata,2024-11-02,Vehicle,62955,Delhi,138,Heavy Rain,Settled,30
+C0794,Vihaan Khurana,2024-11-14,Vehicle,47646,Ahmedabad,53,Light Rain,Settled,4
+C0795,Priyansh Bhatti,2024-12-03,Property,133739,Lucknow,100,Moderate Rain,Settled,29
+C0796,Manjari D’Alia,2024-10-13,Vehicle,130929,Kolkata,263,Flood,Settled,30
+C0797,Fateh Bumb,2025-05-23,Agriculture,233656,Delhi,109,Moderate Rain,Settled,23
+C0798,Ira Mani,2025-05-18,Property,369063,Jaipur,292,Light Rain,Settled,4
+C0799,Inaaya  Chana,2025-03-17,Health,42750,Pune,127,Moderate Rain,Pending,21
+C0800,Indranil Banik,2025-04-18,Health,138446,Pune,172,Light Rain,Settled,17
+C0801,Taimur Dass,2025-01-04,Vehicle,82344,Mumbai,104,Flood,Settled,24
+C0802,Inaaya  Talwar,2025-07-22,Health,198957,Pune,240,Heavy Rain,Settled,16
+C0803,Hansh Basu,2024-11-17,Vehicle,130278,Lucknow,114,Heavy Rain,Settled,5
+C0804,Amani Choudhary,2025-04-17,Vehicle,36513,Ahmedabad,81,Heavy Rain,Pending,26
+C0805,Tarini Saha,2025-08-05,Vehicle,66762,Hyderabad,194,Heavy Rain,Settled,24
+C0806,Saksham Kanda,2024-12-11,Vehicle,73551,Mumbai,200,Heavy Rain,Settled,19
+C0807,Rohan Kurian,2024-10-04,Vehicle,77743,Kolkata,175,Heavy Rain,Pending,24
+C0808,Kiaan Dara,2024-10-23,Vehicle,74616,Pune,129,Flood,Settled,9
+C0809,Aaryahi Shankar,2025-09-23,Property,238459,Delhi,184,Flood,Settled,14
+C0810,Damini Setty,2025-08-06,Agriculture,137786,Mumbai,118,Light Rain,Settled,22
+C0811,Kismat Sathe,2025-04-21,Health,176147,Kolkata,200,Heavy Rain,Rejected,19
+C0812,Zain Banerjee,2024-11-03,Vehicle,73520,Bangalore,89,Flood,Settled,17
+C0813,Samar Mander,2025-03-05,Property,248037,Mumbai,223,Moderate Rain,Settled,28
+C0814,Parinaaz Vig,2024-12-29,Vehicle,82609,Hyderabad,66,Heavy Rain,Settled,8
+C0815,Miraan Zachariah,2025-03-03,Vehicle,68999,Lucknow,50,Heavy Rain,Pending,21
+C0816,Indrajit Upadhyay,2024-11-25,Agriculture,76009,Delhi,59,Moderate Rain,Pending,16
+C0817,Kanav Deep,2025-02-05,Vehicle,128793,Chennai,208,Light Rain,Settled,13
+C0818,Prerak Jaggi,2025-01-25,Health,54558,Mumbai,50,Light Rain,Pending,6
+C0819,Faiyaz Ramanathan,2024-12-12,Vehicle,86246,Lucknow,82,Heavy Rain,Settled,8
+C0820,Keya Wali,2025-08-15,Agriculture,126386,Mumbai,77,Flood,Settled,26
+C0821,Advika Sharma,2025-05-08,Agriculture,194876,Mumbai,206,Heavy Rain,Pending,8
+C0822,Aradhya Hora,2025-09-18,Agriculture,239745,Bangalore,294,Flood,Settled,29
+C0823,Anvi Cherian,2025-03-19,Agriculture,84546,Mumbai,120,Light Rain,Settled,10
+C0824,Anaya Sehgal,2025-01-17,Health,31218,Ahmedabad,281,Flood,Settled,9
+C0825,Pari Boase,2025-09-21,Property,463201,Ahmedabad,150,Moderate Rain,Settled,5
+C0826,Ira Bhavsar,2025-07-09,Vehicle,126660,Lucknow,136,Light Rain,Pending,21
+C0827,Divij Kapoor,2025-06-03,Agriculture,261918,Ahmedabad,53,Flood,Pending,6
+C0828,Kimaya Samra,2024-11-18,Property,449679,Bangalore,71,Flood,Settled,3
+C0829,Fateh Sankaran,2025-09-05,Property,323630,Pune,91,Heavy Rain,Settled,24
+C0830,Aradhya Venkatesh,2025-05-09,Property,207336,Mumbai,73,Light Rain,Pending,6
+C0831,Jhanvi Master,2025-01-17,Agriculture,288341,Pune,95,Flood,Settled,12
+C0832,Baiju Hegde,2024-10-19,Agriculture,179883,Bangalore,100,Moderate Rain,Pending,5
+C0833,Rohan Bhatnagar,2025-09-02,Property,406372,Mumbai,108,Heavy Rain,Pending,28
+C0834,Hansh Das,2025-08-04,Vehicle,84537,Delhi,79,Moderate Rain,Pending,14
+C0835,Samaira Varughese,2025-03-03,Property,344979,Kolkata,174,Heavy Rain,Settled,28
+C0836,Vidur Rout,2025-08-03,Health,49250,Ahmedabad,239,Light Rain,Pending,4
+C0837,Jhanvi Setty,2025-04-09,Vehicle,66737,Lucknow,77,Flood,Settled,10
+C0838,Mamooty Karnik,2025-03-09,Health,75631,Mumbai,102,Moderate Rain,Settled,25
+C0839,Mahika Handa,2025-02-06,Vehicle,59859,Ahmedabad,245,Flood,Pending,24
+C0840,Ranbir Swaminathan,2024-12-11,Property,188393,Lucknow,185,Heavy Rain,Settled,26
+C0841,Uthkarsh Suri,2025-07-31,Property,111122,Lucknow,57,Light Rain,Settled,3
+C0842,Heer Agrawal,2025-01-09,Property,416458,Lucknow,108,Flood,Pending,23
+C0843,Dishani Loke,2025-06-30,Property,457718,Pune,108,Light Rain,Pending,3
+C0844,Dhanuk Loke,2025-03-25,Property,173857,Ahmedabad,135,Moderate Rain,Settled,6
+C0845,Zain Srinivasan,2024-11-25,Agriculture,52095,Lucknow,275,Moderate Rain,Settled,14
+C0846,Kimaya Shroff,2025-06-27,Property,274191,Chennai,165,Moderate Rain,Pending,9
+C0847,Jivin Yadav,2024-11-16,Agriculture,255511,Kolkata,241,Heavy Rain,Pending,7
+C0848,Nishith Sodhi,2025-08-27,Agriculture,179096,Mumbai,127,Moderate Rain,Pending,29
+C0849,Hansh Cheema,2025-09-17,Health,177078,Delhi,122,Heavy Rain,Settled,13
+C0850,Ela Vohra,2024-11-04,Health,187208,Pune,72,Moderate Rain,Rejected,25
+C0851,Nitara Johal,2025-08-02,Agriculture,248081,Bangalore,54,Moderate Rain,Settled,6
+C0852,Seher Majumdar,2025-05-20,Health,160123,Kolkata,126,Moderate Rain,Settled,3
+C0853,Tushar Date,2025-03-06,Property,338201,Delhi,157,Moderate Rain,Pending,8
+C0854,Urvi Varughese,2025-01-21,Health,25536,Kolkata,50,Light Rain,Pending,11
+C0855,Yashvi Hora,2025-04-11,Property,127748,Bangalore,212,Light Rain,Rejected,20
+C0856,Priyansh Bhatia,2025-01-14,Agriculture,101507,Mumbai,205,Moderate Rain,Settled,17
+C0857,Oorja Atwal,2025-09-13,Health,54842,Pune,79,Light Rain,Settled,18
+C0858,Ela Gupta,2025-02-01,Health,110687,Chennai,242,Flood,Pending,26
+C0859,Jiya Sangha,2025-05-07,Vehicle,55522,Lucknow,121,Light Rain,Pending,23
+C0860,Nirvi Dar,2025-02-02,Agriculture,195253,Jaipur,197,Flood,Settled,3
+C0861,Faiyaz Sem,2024-10-06,Property,143975,Kolkata,148,Flood,Rejected,4
+C0862,Shayak Basu,2025-06-26,Agriculture,202751,Lucknow,265,Light Rain,Settled,20
+C0863,Arnav Choudhury,2025-05-12,Agriculture,105213,Delhi,134,Moderate Rain,Settled,26
+C0864,Tarini Chaudhuri,2025-08-21,Agriculture,214084,Chennai,272,Flood,Settled,4
+C0865,Dishani Gara,2025-05-19,Vehicle,105084,Kolkata,73,Flood,Pending,25
+C0866,Myra Bahl,2025-08-24,Health,147512,Pune,194,Flood,Settled,15
+C0867,Jayant Sahota,2024-12-19,Agriculture,220711,Pune,228,Heavy Rain,Settled,19
+C0868,Hiran Korpal,2025-05-10,Health,131656,Bangalore,134,Flood,Pending,23
+C0869,Onkar Bhat,2024-11-01,Vehicle,31279,Chennai,262,Moderate Rain,Pending,5
+C0870,Yashvi Sibal,2025-01-30,Vehicle,148491,Lucknow,154,Heavy Rain,Rejected,5
+C0871,Zeeshan Choudhry,2025-05-20,Property,341189,Bangalore,227,Light Rain,Pending,10
+C0872,Ryan Kade,2025-04-21,Property,329837,Kolkata,272,Flood,Settled,23
+C0873,Raunak Bhagat,2025-06-16,Property,480246,Pune,291,Moderate Rain,Settled,12
+C0874,Armaan Yogi,2025-08-27,Property,216488,Chennai,149,Flood,Pending,3
+C0875,Arhaan Jain,2024-10-29,Health,38160,Mumbai,268,Light Rain,Settled,8
+C0876,Kismat Goswami,2025-05-13,Health,168890,Kolkata,76,Flood,Settled,21
+C0877,Anvi Varughese,2025-09-23,Agriculture,95921,Pune,167,Flood,Pending,15
+C0878,Raunak Wagle,2025-07-26,Vehicle,123634,Pune,273,Moderate Rain,Pending,23
+C0879,Devansh Gera,2025-05-06,Property,228707,Hyderabad,228,Heavy Rain,Rejected,9
+C0880,Alia Jhaveri,2024-10-06,Health,122281,Mumbai,236,Moderate Rain,Settled,24
+C0881,Shlok Ganesan,2025-07-08,Health,120480,Delhi,245,Heavy Rain,Settled,16
+C0882,Ivana Bhatti,2025-05-10,Health,192550,Chennai,109,Light Rain,Settled,15
+C0883,Elakshi Sekhon,2024-10-26,Health,65030,Ahmedabad,291,Moderate Rain,Settled,17
+C0884,Romil Rana,2025-07-05,Vehicle,118685,Lucknow,206,Heavy Rain,Pending,4
+C0885,Umang Soman,2024-12-22,Health,163340,Kolkata,215,Heavy Rain,Pending,3
+C0886,Ehsaan Kant,2024-10-22,Property,302406,Ahmedabad,292,Heavy Rain,Rejected,16
+C0887,Emir Kakar,2025-09-18,Property,490135,Bangalore,254,Light Rain,Pending,24
+C0888,Miraya Suri,2025-01-02,Property,328252,Lucknow,186,Flood,Pending,18
+C0889,Nitara Mahal,2025-08-07,Agriculture,250271,Hyderabad,299,Heavy Rain,Settled,23
+C0890,Amira Garde,2025-04-21,Property,455974,Bangalore,162,Heavy Rain,Settled,3
+C0891,Rati Sandal,2024-11-03,Agriculture,90327,Delhi,159,Light Rain,Rejected,18
+C0892,Prisha Basu,2024-11-27,Health,166772,Chennai,262,Heavy Rain,Rejected,23
+C0893,Fateh Sharaf,2024-10-25,Agriculture,299687,Bangalore,88,Light Rain,Pending,10
+C0894,Manjari Bhatt,2025-09-11,Agriculture,265694,Lucknow,142,Light Rain,Pending,22
+C0895,Elakshi Varkey,2024-12-09,Property,321254,Mumbai,204,Heavy Rain,Settled,7
+C0896,Arhaan Bail,2024-11-10,Property,102645,Hyderabad,73,Light Rain,Pending,23
+C0897,Sana Magar,2025-02-26,Vehicle,75817,Hyderabad,133,Light Rain,Settled,9
+C0898,Divit Ganesan,2024-11-17,Health,43860,Chennai,220,Light Rain,Settled,12
+C0899,Veer Chanda,2024-10-23,Health,62047,Chennai,181,Light Rain,Pending,10
+C0900,Purab Mani,2024-11-19,Health,104259,Jaipur,246,Light Rain,Settled,6
+C0901,Anaya Kar,2025-09-26,Health,70604,Lucknow,163,Light Rain,Pending,8
+C0902,Gatik Sharaf,2025-07-06,Property,323610,Mumbai,153,Moderate Rain,Settled,20
+C0903,Ojas Shanker,2025-01-11,Health,73534,Pune,90,Flood,Rejected,30
+C0904,Seher Kurian,2025-05-06,Property,336388,Jaipur,82,Moderate Rain,Settled,27
+C0905,Raunak Dayal,2025-02-23,Vehicle,61532,Pune,233,Moderate Rain,Settled,21
+C0906,Vihaan Wagle,2025-08-07,Property,248752,Hyderabad,137,Moderate Rain,Settled,19
+C0907,Anay Trivedi,2025-08-03,Agriculture,52930,Mumbai,285,Moderate Rain,Pending,7
+C0908,Anvi Shah,2025-08-07,Property,147534,Kolkata,258,Light Rain,Pending,5
+C0909,Adah Bath,2025-02-02,Property,113042,Lucknow,270,Light Rain,Settled,5
+C0910,Madhav Mani,2025-02-21,Property,198139,Jaipur,100,Light Rain,Settled,4
+C0911,Aayush Deo,2025-04-27,Health,136775,Pune,207,Heavy Rain,Settled,17
+C0912,Diya Basak,2024-10-02,Agriculture,215478,Pune,267,Moderate Rain,Settled,6
+C0913,Nirvaan Kadakia,2025-02-11,Property,460828,Jaipur,66,Flood,Settled,17
+C0914,Anahita Khatri,2025-05-08,Vehicle,111516,Ahmedabad,79,Light Rain,Settled,24
+C0915,Armaan Mangal,2025-04-05,Agriculture,97367,Pune,61,Heavy Rain,Pending,16
+C0916,Rati Saxena,2024-10-23,Vehicle,117464,Bangalore,267,Moderate Rain,Rejected,24
+C0917,Umang Sant,2025-05-16,Health,158861,Hyderabad,134,Heavy Rain,Rejected,7
+C0918,Ayesha Som,2025-01-11,Health,23759,Ahmedabad,198,Heavy Rain,Settled,12
+C0919,Jhanvi Srinivasan,2024-12-26,Property,363664,Chennai,100,Light Rain,Pending,21
+C0920,Diya Goswami,2024-12-05,Health,126788,Pune,268,Flood,Rejected,6
+C0921,Jayan Karnik,2025-09-04,Property,136702,Bangalore,204,Heavy Rain,Settled,28
+C0922,Mohanlal Tailor,2025-07-04,Health,31322,Mumbai,245,Light Rain,Settled,14
+C0923,Anay Kalla,2025-06-22,Vehicle,42176,Kolkata,168,Moderate Rain,Settled,9
+C0924,Yakshit Grewal,2025-01-30,Vehicle,31934,Kolkata,259,Light Rain,Settled,28
+C0925,Vidur Kota,2025-08-08,Agriculture,108274,Jaipur,235,Moderate Rain,Settled,4
+C0926,Jivika Dara,2024-11-02,Health,115192,Kolkata,130,Heavy Rain,Pending,24
+C0927,Ira Dugar,2025-08-18,Property,218621,Delhi,221,Flood,Settled,10
+C0928,Vardaniya Sathe,2025-05-30,Health,73177,Hyderabad,189,Flood,Pending,11
+C0929,Samar Banik,2024-10-24,Vehicle,100875,Pune,287,Flood,Settled,3
+C0930,Hansh Amble,2024-12-13,Health,40244,Delhi,132,Flood,Settled,17
+C0931,Mishti Sani,2025-05-30,Property,404308,Hyderabad,219,Moderate Rain,Settled,12
+C0932,Jiya Ahuja,2024-10-09,Vehicle,62437,Bangalore,181,Moderate Rain,Pending,14
+C0933,Yuvraj  Dube,2025-09-04,Vehicle,57018,Chennai,204,Heavy Rain,Pending,3
+C0934,Nitya Lata,2025-09-04,Property,217223,Delhi,64,Flood,Settled,10
+C0935,Purab Trivedi,2025-01-27,Vehicle,62215,Bangalore,272,Moderate Rain,Pending,8
+C0936,Lakshay Virk,2025-05-19,Property,181543,Jaipur,180,Flood,Settled,7
+C0937,Miraya Dayal,2024-09-28,Vehicle,102238,Pune,236,Flood,Pending,17
+C0938,Samarth Ghosh,2025-05-31,Vehicle,84086,Lucknow,297,Flood,Settled,3
+C0939,Ritvik Bansal,2024-12-02,Vehicle,42254,Bangalore,199,Heavy Rain,Settled,11
+C0940,Yuvraj  Sandal,2024-11-14,Agriculture,70235,Jaipur,279,Flood,Pending,24
+C0941,Advika Kunda,2025-08-19,Vehicle,43085,Ahmedabad,179,Heavy Rain,Pending,18
+C0942,Riya Yadav,2025-05-04,Health,181337,Hyderabad,278,Moderate Rain,Settled,27
+C0943,Aarush Rastogi,2025-02-09,Property,397649,Chennai,264,Light Rain,Settled,11
+C0944,Rania Sandal,2024-11-24,Health,107672,Ahmedabad,225,Flood,Settled,5
+C0945,Tarini Buch,2024-12-23,Health,171382,Jaipur,139,Moderate Rain,Pending,13
+C0946,Abram Salvi,2025-03-17,Health,73405,Kolkata,233,Heavy Rain,Settled,11
+C0947,Dhruv Basu,2024-10-30,Vehicle,121800,Delhi,157,Light Rain,Pending,30
+C0948,Hunar Bains,2025-04-18,Property,144787,Bangalore,218,Flood,Settled,29
+C0949,Piya Sibal,2025-02-19,Agriculture,288365,Kolkata,124,Moderate Rain,Pending,5
+C0950,Kanav Bandi,2025-09-23,Vehicle,30906,Mumbai,270,Light Rain,Settled,19
+C0951,Misha Sachar,2024-11-17,Property,440549,Ahmedabad,192,Flood,Settled,29
+C0952,Sana Dass,2024-12-07,Health,113373,Ahmedabad,195,Heavy Rain,Settled,21
+C0953,Bhamini Lad,2025-01-19,Agriculture,63883,Lucknow,291,Heavy Rain,Rejected,25
+C0954,Eva Krishna,2025-02-24,Vehicle,54880,Delhi,246,Light Rain,Settled,11
+C0955,Miraya D’Alia,2025-09-08,Health,33061,Delhi,227,Flood,Pending,21
+C0956,Kismat Chatterjee,2025-07-14,Agriculture,207534,Bangalore,238,Light Rain,Rejected,23
+C0957,Anya Barad,2025-07-29,Agriculture,65898,Pune,242,Light Rain,Pending,9
+C0958,Mamooty Varghese,2025-02-04,Property,284611,Delhi,133,Heavy Rain,Pending,15
+C0959,Fateh Gulati,2025-05-08,Health,56791,Chennai,62,Light Rain,Settled,18
+C0960,Renee Shah,2025-02-11,Health,65999,Mumbai,252,Moderate Rain,Settled,14
+C0961,Lakshit Doshi,2024-11-17,Property,237632,Delhi,95,Moderate Rain,Rejected,13
+C0962,Vivaan Gaba,2025-01-19,Health,50103,Delhi,233,Light Rain,Settled,19
+C0963,Sumer Konda,2025-01-29,Vehicle,45032,Chennai,156,Flood,Settled,20
+C0964,Hansh Devan,2025-06-14,Health,108663,Lucknow,185,Light Rain,Pending,6
+C0965,Anika Kurian,2025-08-15,Property,249173,Ahmedabad,53,Flood,Settled,24
+C0966,Mehul Subramanian,2025-09-04,Agriculture,200420,Kolkata,71,Flood,Pending,12
+C0967,Vidur Gour,2025-08-19,Vehicle,79819,Pune,166,Moderate Rain,Settled,20
+C0968,Divij Sem,2025-08-03,Vehicle,83868,Kolkata,265,Heavy Rain,Settled,12
+C0969,Vihaan Tandon,2025-06-19,Agriculture,62850,Lucknow,253,Moderate Rain,Pending,16
+C0970,Anika Iyer,2025-04-08,Vehicle,54706,Ahmedabad,77,Moderate Rain,Pending,12
+C0971,Kismat Kadakia,2025-09-01,Health,39972,Mumbai,175,Light Rain,Pending,6
+C0972,Rania Bhasin,2025-07-15,Agriculture,251858,Pune,160,Moderate Rain,Settled,14
+C0973,Emir Dugar,2025-06-12,Health,165324,Pune,172,Flood,Settled,10
+C0974,Lakshay Bora,2025-03-09,Agriculture,118985,Bangalore,58,Flood,Pending,22
+C0975,Mahika Mani,2025-05-12,Health,25602,Jaipur,208,Light Rain,Settled,23
+C0976,Nitya Sani,2025-03-15,Health,35977,Pune,264,Light Rain,Settled,21
+C0977,Dishani Ram,2025-05-15,Property,385056,Kolkata,259,Moderate Rain,Settled,13
+C0978,Seher Saha,2025-07-14,Health,159096,Mumbai,136,Heavy Rain,Settled,10
+C0979,Oorja Kumer,2025-01-29,Vehicle,34585,Mumbai,159,Moderate Rain,Settled,6
+C0980,Manjari Sekhon,2024-11-21,Health,53767,Kolkata,185,Flood,Settled,9
+C0981,Lagan Krishna,2025-03-27,Health,75740,Ahmedabad,176,Flood,Pending,13
+C0982,Aarna Gaba,2024-10-25,Health,70373,Hyderabad,69,Light Rain,Settled,11
+C0983,Shaan Doshi,2025-07-14,Health,112015,Bangalore,197,Flood,Settled,29
+C0984,Drishya Bumb,2025-03-10,Property,193741,Chennai,82,Heavy Rain,Settled,24
+C0985,Ojas Sridhar,2025-08-25,Property,441455,Hyderabad,54,Light Rain,Settled,30
+C0986,Shanaya Kala,2024-12-24,Health,139598,Pune,275,Heavy Rain,Settled,3
+C0987,Renee Jaggi,2025-02-26,Health,196245,Chennai,102,Moderate Rain,Pending,10
+C0988,Tanya Mahal,2025-07-26,Property,496449,Delhi,76,Heavy Rain,Pending,25
+C0989,Emir Bala,2025-01-02,Agriculture,118190,Pune,72,Light Rain,Settled,30
+C0990,Dhruv Ray,2025-05-29,Vehicle,74071,Pune,194,Heavy Rain,Settled,7
+C0991,Saira Kale,2025-01-20,Health,178254,Kolkata,62,Moderate Rain,Rejected,15
+C0992,Shray Rajagopalan,2024-10-31,Property,195704,Chennai,238,Moderate Rain,Rejected,22
+C0993,Misha Sachdeva,2025-09-18,Health,136394,Kolkata,265,Moderate Rain,Pending,9
+C0994,Elakshi Reddy,2025-07-29,Property,487788,Mumbai,80,Flood,Pending,17
+C0995,Manjari Kapadia,2025-04-07,Property,381823,Jaipur,106,Flood,Settled,24
+C0996,Elakshi Balasubramanian,2025-09-01,Property,238020,Lucknow,253,Flood,Settled,6
+C0997,Samaira Desai,2025-04-13,Vehicle,52299,Mumbai,197,Moderate Rain,Pending,6
+C0998,Raunak Shroff,2024-11-23,Property,413264,Delhi,159,Light Rain,Pending,30
+C0999,Elakshi Shere,2025-01-05,Property,465655,Lucknow,55,Flood,Settled,23
+C1000,Faiyaz Kapadia,2025-04-30,Agriculture,113514,Mumbai,86,Flood,Rejected,10
