@@ -49,6 +49,8 @@ DATA SET USED:https://github.com/Shaikhmusheer04/DATA-ANALYST-DASHBOARD/blob/mai
 - Lowest settlements: **65+ years**
 
 ---
+DASH BOARD: 
+![DASHBOARD DATA ANALYST - Copy](https://github.com/user-attachments/assets/d695fc59-f049-4f79-aa9c-62c510411b59)
 
 ## 📂 Project Structure
 
