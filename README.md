@@ -1,3 +1,4 @@
+# 🌧️ Rainfall Risk Radar: Insurance Claims Analytics Dashboard
 This project is a comprehensive **Insurance Claims Analytics Dashboard** focused on rainfall-related risk and claim patterns. The dashboard visualizes insurance claim data by weather condition, location, policy type, gender, and settlement status, helping insurers and analysts make data-driven decisions.
 
 Dashboard Preview](http://github.com/Shaikhmusheer04/DATA-ANALYST-DASHBOARD/blob/main/DASHBOARD%20IMAGE.jpg)
